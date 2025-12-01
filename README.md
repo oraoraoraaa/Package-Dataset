@@ -92,7 +92,7 @@ Contains the whole lists of packages in the corresponding ecosystem.
 
 ## Common-Package
 
-Contains the filtered packages which appear in multiple package lists. There are in total 120 possible combinations, while eventually 71 combinations hold matched results.
+Contains the filtered packages which appear in multiple package lists. There are in total 120 possible combinations, while eventually 84 combinations hold matched results.
 
 - File Type: `.csv`
 - Matching Criteria: Same repo URL
