@@ -1,0 +1,151 @@
+================================================================================
+Error Log for Crates_Go
+================================================================================
+Total Errors: 9
+Generated: 2025-12-02 06:39:38
+================================================================================
+
+Error #1
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:29:02.453931
+Repository: https://github.com/loopholelabs/scale-signature
+Ecosystems: Crates, Go
+Error Type: NOT_FOUND
+Error Message: Repository not found: loopholelabs/scale-signature
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #2
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:32:45.602687
+Repository: https://github.com/substrate-developer-hub/substrate-node-template/
+Ecosystems: Crates
+Error Type: NOT_FOUND
+Error Message: Repository not found: substrate-developer-hub/substrate-node-template
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #3
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:32:45.883396
+Repository: https://github.com/substrate-developer-hub/substrate-node-template
+Ecosystems: Go
+Error Type: NOT_FOUND
+Error Message: Repository not found: substrate-developer-hub/substrate-node-template
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #4
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:32:55.397301
+Repository: https://github.com/Stridsvagn69420/Kagero
+Ecosystems: Crates
+Error Type: NOT_FOUND
+Error Message: Repository not found: Stridsvagn69420/Kagero
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #5
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:32:55.683446
+Repository: https://github.com/stridsvagn69420/kagero
+Ecosystems: Go
+Error Type: NOT_FOUND
+Error Message: Repository not found: stridsvagn69420/kagero
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #6
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:34:28.193399
+Repository: https://github.com/loopholelabs/scale-signature-http
+Ecosystems: Crates, Go
+Error Type: NOT_FOUND
+Error Message: Repository not found: loopholelabs/scale-signature-http
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #7
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:37:45.590481
+Repository: https://github.com/Interfiber/pack
+Ecosystems: Crates
+Error Type: NOT_FOUND
+Error Message: Repository not found: Interfiber/pack
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #8
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:37:45.853511
+Repository: https://github.com/interfiber/pack
+Ecosystems: Go
+Error Type: NOT_FOUND
+Error Message: Repository not found: interfiber/pack
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #9
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:39:24.859207
+Repository: https://github.com/zjaco13/multi-lang-eks-blueprints-cdk
+Ecosystems: Crates, Go
+Error Type: NOT_FOUND
+Error Message: Repository not found: zjaco13/multi-lang-eks-blueprints-cdk
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+

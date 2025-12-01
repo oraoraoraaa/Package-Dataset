@@ -1,0 +1,55 @@
+================================================================================
+Error Log for Go_NPM_PyPI
+================================================================================
+Total Errors: 3
+Generated: 2025-12-02 06:39:38
+================================================================================
+
+Error #1
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T05:48:45.967345
+Repository: https://github.com/cuemby/pulumi-equinix
+Ecosystems: Go, NPM, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: cuemby/pulumi-equinix
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #2
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T05:49:24.187087
+Repository: https://github.com/mbasadi/jsiitestbagher
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: mbasadi/jsiitestbagher
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #3
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T05:49:24.494677
+Repository: https://github.com/mbasadi/jsiitestbagher.git
+Ecosystems: PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: mbasadi/jsiitestbagher
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+

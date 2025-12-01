@@ -1,0 +1,1623 @@
+================================================================================
+Error Log for Crates_NPM
+================================================================================
+Total Errors: 101
+Generated: 2025-12-02 06:39:38
+================================================================================
+
+Error #1
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:48:12.301830
+Repository: https://github.com/ShunsukeHayashi/Miyabi
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: ShunsukeHayashi/Miyabi
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #2
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:48:17.927363
+Repository: https://github.com/nxpkg/mainstay
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: nxpkg/mainstay
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #3
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:48:26.662256
+Repository: https://github.com/tree-sitter-grammars/tree-sitter-epics-db
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: tree-sitter-grammars/tree-sitter-epics-db
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #4
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:48:33.700998
+Repository: https://github.com/barrybtw/trash-cli/
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: barrybtw/trash-cli
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #5
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:49:03.611468
+Repository: https://github.com/agentic-catalog/agentic-payments
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: agentic-catalog/agentic-payments
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #6
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:49:05.539545
+Repository: https://github.com/bitcoin/libbitcoinpqc
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: bitcoin/libbitcoinpqc
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #7
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:49:46.120809
+Repository: https://github.com/xty/watchcraft
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: xty/watchcraft
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #8
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:49:49.206440
+Repository: https://github.com/orca-so/riptide
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: orca-so/riptide
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #9
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:52:02.086331
+Repository: https://github.com/LiterateInk/Utilities
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: LiterateInk/Utilities
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #10
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:52:29.235493
+Repository: https://github.com/ysk8hori/hello-wasm
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: ysk8hori/hello-wasm
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #11
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:52:42.151780
+Repository: https://github.com/your-org/indian-rummy-core
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: your-org/indian-rummy-core
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #12
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:53:17.766212
+Repository: https://github.com/deplug/deplug
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: deplug/deplug
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #13
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:53:46.009793
+Repository: https://github.com/metaplex-foundation/mpl-vault
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: metaplex-foundation/mpl-vault
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #14
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:53:47.566272
+Repository: https://github.com/ahmadkhaefi/fileidentifier
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: ahmadkhaefi/fileidentifier
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #15
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:53:50.321287
+Repository: https://github.com/lib-q/lib-q
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: lib-q/lib-q
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #16
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:54:19.621272
+Repository: https://github.com/alwinw/gguppy
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: alwinw/gguppy
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #17
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:54:29.350336
+Repository: https://github.com/LPGhatguy/undulate
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: LPGhatguy/undulate
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #18
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:54:30.080493
+Repository: https://github.com/ADAO-Summon/summon-client-sdk
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: ADAO-Summon/summon-client-sdk
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #19
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:54:41.181734
+Repository: https://github.com/opla/tokin
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: opla/tokin
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #20
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:54:53.833455
+Repository: https://github.com/entropyxyz/entropy-core
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: entropyxyz/entropy-core
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #21
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:55:11.551604
+Repository: https://github.com/xamogh/safe-urqlcodgen-mutations
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: xamogh/safe-urqlcodgen-mutations
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #22
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:55:16.775588
+Repository: https://github.com/mrgnlabs/marginfi-sdk/tree/main/rust/marginfi-cpi
+Ecosystems: Crates
+Error Type: NOT_FOUND
+Error Message: Repository not found: mrgnlabs/marginfi-sdk
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #23
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:55:17.084667
+Repository: https://github.com/mrgnlabs/marginfi-sdk
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: mrgnlabs/marginfi-sdk
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #24
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:55:25.890535
+Repository: https://github.com/Wandalen/wMath/tree/master/module/rust/wmath
+Ecosystems: Crates
+Error Type: NOT_FOUND
+Error Message: Repository not found: Wandalen/wMath
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #25
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:55:26.175047
+Repository: https ://github.com/Wandalen/wMath
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: Wandalen/wMath
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #26
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:56:03.853562
+Repository: https://github.com/westhide/swc-plugin-vue-jsx.git
+Ecosystems: Crates
+Error Type: NOT_FOUND
+Error Message: Repository not found: westhide/swc-plugin-vue-jsx
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #27
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:56:04.122953
+Repository: https://github.com/westhide/swc-plugin-vue-jsx
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: westhide/swc-plugin-vue-jsx
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #28
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:56:15.357632
+Repository: https://github.com/faldez/tanoshi
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: faldez/tanoshi
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #29
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:56:34.276040
+Repository: https://github.com/dawsonfi/caws
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: dawsonfi/caws
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #30
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:56:34.591409
+Repository: https://github.com/ruvnet/neural-trader
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: ruvnet/neural-trader
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #31
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:56:44.745015
+Repository: https://github.com/Trustblock-Inc/trustblock-cli
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: Trustblock-Inc/trustblock-cli
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #32
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:56:57.715488
+Repository: https://github.com/elgrhy/lgx-light.git
+Ecosystems: Crates
+Error Type: NOT_FOUND
+Error Message: Repository not found: elgrhy/lgx-light
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #33
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:56:58.357926
+Repository: https://github.com/elgrhy/lgx-light
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: elgrhy/lgx-light
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #34
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:57:10.648179
+Repository: https://github.com/fauna-labs/fql-parser
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: fauna-labs/fql-parser
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #35
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:57:42.400511
+Repository: https://github.com/nathanbabcock/hypetrigger
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: nathanbabcock/hypetrigger
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #36
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:58:07.487307
+Repository: https://github.com/gasp-xyz/gasp-swap
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: gasp-xyz/gasp-swap
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #37
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:58:10.653407
+Repository: https://github.com/switchboard-xyz/sbv3
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: switchboard-xyz/sbv3
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #38
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:58:11.984640
+Repository: https://github.com/rate-technology/rillrate-js
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: rate-technology/rillrate-js
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #39
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:59:02.874564
+Repository: https://github.com/versa-protocol/semval
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: versa-protocol/semval
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #40
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:59:09.412419
+Repository: https://github.com/anru/act
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: anru/act
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #41
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:59:11.056925
+Repository: https://github.com/tananetwork/tana-event-bus
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: tananetwork/tana-event-bus
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #42
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:00:16.504960
+Repository: https://github.com/metaplex-foundation/mpl-gavel
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: metaplex-foundation/mpl-gavel
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #43
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:00:32.274794
+Repository: https://github.com/uora/uora
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: uora/uora
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #44
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:00:34.317454
+Repository: https://github.com/knot0-com/knot0-main
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: knot0-com/knot0-main
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #45
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:00:46.008642
+Repository: https://github.com/SubzeroLabs/rialo
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: SubzeroLabs/rialo
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #46
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:01:10.061009
+Repository: https://github.com/cardinal-labs/cardinal-configs/
+Ecosystems: Crates
+Error Type: NOT_FOUND
+Error Message: Repository not found: cardinal-labs/cardinal-configs
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #47
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:01:10.469767
+Repository: https://github.com/cardinal-labs/cardinal-configs
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: cardinal-labs/cardinal-configs
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #48
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:01:22.752590
+Repository: https://github.com/telcoin-association/tnipv
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: telcoin-association/tnipv
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #49
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:01:33.670036
+Repository: https://github.com/dote27/tauri-plugin-broadcast.git
+Ecosystems: Crates
+Error Type: NOT_FOUND
+Error Message: Repository not found: dote27/tauri-plugin-broadcast
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #50
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:01:33.949558
+Repository: https://github.com/dote27/tauri-plugin-broadcast
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: dote27/tauri-plugin-broadcast
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #51
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:01:50.899903
+Repository: https://github.com/metaplex-foundation/mpl-waffle
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: metaplex-foundation/mpl-waffle
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #52
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:01:55.395848
+Repository: https://github.com/aws/fully-qualified-names
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: aws/fully-qualified-names
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #53
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:01:55.665344
+Repository: https://github.com/knowthat-ai/reputation-engine
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: knowthat-ai/reputation-engine
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #54
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:02:02.994983
+Repository: https://github.com/cardinal-labs/cardinal-scanner/tree/main/programs/cardinal-scanner
+Ecosystems: Crates
+Error Type: NOT_FOUND
+Error Message: Repository not found: cardinal-labs/cardinal-scanner
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #55
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:02:03.310863
+Repository: https://github.com/cardinal-labs/cardinal-scanner
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: cardinal-labs/cardinal-scanner
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #56
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:02:18.230005
+Repository: https://github.com/metaplex-foundation/mpl-barista
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: metaplex-foundation/mpl-barista
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #57
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:02:43.873406
+Repository: https://github.com/quasipaa/QStorage
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: quasipaa/QStorage
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #58
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:02:49.760369
+Repository: https://github.com/fluencelabs/fluence/tree/master/sdk/rust
+Ecosystems: Crates
+Error Type: NOT_FOUND
+Error Message: Repository not found: fluencelabs/fluence
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #59
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:02:50.059970
+Repository: https://github.com/fluencelabs/fluence
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: fluencelabs/fluence
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #60
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:03:11.068169
+Repository: https://github.com/genauai/kernel
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: genauai/kernel
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #61
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:03:21.205572
+Repository: https://github.com/nftt-studio/nftmart-telemetry
+Ecosystems: Crates
+Error Type: NOT_FOUND
+Error Message: Repository not found: nftt-studio/nftmart-telemetry
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #62
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:03:21.514972
+Repository: https://github.com/NFTT-studio/nftmart-telemetry
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: NFTT-studio/nftmart-telemetry
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #63
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:03:44.928880
+Repository: https://github.com/zeit/now-builders
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: zeit/now-builders
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #64
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:04:50.674757
+Repository: https://github.com/dyz1990/sevenz-rust
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: dyz1990/sevenz-rust
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #65
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:04:52.896536
+Repository: https://github.com/tdxvolt/tdxvolt-rs
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: tdxvolt/tdxvolt-rs
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #66
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:05:59.388225
+Repository: https://github.com/patrickquinn/tauri-plugin-apple-music-kit
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: patrickquinn/tauri-plugin-apple-music-kit
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #67
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:06:00.950457
+Repository: https://github.com/crabnebula-dev/tauri-plugin-ota-updater
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: crabnebula-dev/tauri-plugin-ota-updater
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #68
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:06:01.264356
+Repository: https://github.com/tree-sitter/tree-sitter-tmux
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: tree-sitter/tree-sitter-tmux
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #69
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:06:02.786005
+Repository: https://github.com/tree-sitter/tree-sitter-zathurarc
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: tree-sitter/tree-sitter-zathurarc
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #70
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:06:07.463117
+Repository: https://github.com/tree-sitter/tree-sitter-hlsplaylist
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: tree-sitter/tree-sitter-hlsplaylist
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #71
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:06:10.166498
+Repository: https://github.com/tree-sitter/tree-sitter-muttrc
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: tree-sitter/tree-sitter-muttrc
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #72
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:06:57.682734
+Repository: https://github.com/marraph/iberis
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: marraph/iberis
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #73
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:07:32.291771
+Repository: https://github.com/tensor-foundation/price-lock
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: tensor-foundation/price-lock
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #74
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:07:41.919747
+Repository: https://github.com/haqq-network/indexer-proto
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: haqq-network/indexer-proto
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #75
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:07:57.580522
+Repository: https://github.com/andrespirela/cardinal
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: andrespirela/cardinal
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #76
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:08:01.078814
+Repository: https://github.com/samduchaine/kindly-guard
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: samduchaine/kindly-guard
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #77
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:08:08.131871
+Repository: https://github.com/sutterhill/agentdb
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: sutterhill/agentdb
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #78
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:08:41.433623
+Repository: https://github.com/YosakuraTohu/kitten-anno-lib
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: YosakuraTohu/kitten-anno-lib
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #79
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:08:46.516385
+Repository: https://github.com/rune-ecosystem/forge
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: rune-ecosystem/forge
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #80
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:09:13.328692
+Repository: https://github.com/Maverick0351a/odin_core
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: Maverick0351a/odin_core
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #81
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:10:00.260060
+Repository: https://github.com/pacmjs/neatify
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: pacmjs/neatify
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #82
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:10:33.652752
+Repository: https://github.com/Synopkg/synopkg/tree/rust/main
+Ecosystems: Crates
+Error Type: NOT_FOUND
+Error Message: Repository not found: Synopkg/synopkg
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #83
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:10:33.953620
+Repository: https://github.com/synopkg/synopkg
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: synopkg/synopkg
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #84
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:10:35.590850
+Repository: https://github.com/ABHIRAM-CREATOR06/Acess1
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: ABHIRAM-CREATOR06/Acess1
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #85
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:11:07.740442
+Repository: https://github.com/milesfuller/urban-nest
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: milesfuller/urban-nest
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #86
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:11:49.726540
+Repository: https://github.com/metaplex-foundation/mpl-distro
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: metaplex-foundation/mpl-distro
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #87
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:12:02.946211
+Repository: https://github.com/2221ch/tauri-plugin-sumup
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: 2221ch/tauri-plugin-sumup
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #88
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:12:04.613022
+Repository: https://github.com/your-org/directory-scanner-sdk
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: your-org/directory-scanner-sdk
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #89
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:12:10.510516
+Repository: https://github.com/your-username/tauri-plugin-app-control
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: your-username/tauri-plugin-app-control
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #90
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:12:20.927966
+Repository: https://github.com/Wandalen/willbe/tree/master/module/tree_fmt
+Ecosystems: Crates
+Error Type: NOT_FOUND
+Error Message: Repository not found: Wandalen/willbe
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #91
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:12:21.220307
+Repository: https://github.com/Wandalen/willbe
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: Wandalen/willbe
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #92
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:12:37.622924
+Repository: https://github.com/bench-tools/bench-sdk
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: bench-tools/bench-sdk
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #93
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:12:37.912014
+Repository: https://github.com/bench-tools/bench-ai
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: bench-tools/bench-ai
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #94
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:12:47.992371
+Repository: https://github.com/valiant-trade/vortex
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: valiant-trade/vortex
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #95
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:13:01.993185
+Repository: https://github.com/temporal-neural-solver/tns
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: temporal-neural-solver/tns
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #96
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:13:11.736048
+Repository: https://github.com/ruvnet/goalie
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: ruvnet/goalie
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #97
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:13:14.309310
+Repository: https://github.com/orca-so/wavebreak
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: orca-so/wavebreak
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #98
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:13:22.523283
+Repository: https://github.com/entrepeneur4lyf/reactive-tui
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: entrepeneur4lyf/reactive-tui
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #99
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:13:31.098673
+Repository: https://github.com/FL03/pzzld-js.git
+Ecosystems: Crates
+Error Type: NOT_FOUND
+Error Message: Repository not found: FL03/pzzld-js
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #100
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:13:31.393431
+Repository: https://github.com/FL03/pzzld-js
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: FL03/pzzld-js
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #101
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:13:36.743882
+Repository: https://github.com/byrizki/json-eval-rs
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: byrizki/json-eval-rs
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+

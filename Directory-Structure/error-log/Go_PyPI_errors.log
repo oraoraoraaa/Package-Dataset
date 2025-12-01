@@ -1,0 +1,247 @@
+================================================================================
+Error Log for Go_PyPI
+================================================================================
+Total Errors: 15
+Generated: 2025-12-02 06:39:38
+================================================================================
+
+Error #1
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T01:33:35.723504
+Repository: https://github.com/psauerborn/hermes
+Ecosystems: Go
+Error Type: NOT_FOUND
+Error Message: Repository not found: psauerborn/hermes
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #2
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T01:33:36.001872
+Repository: https://github.com/PSauerborn/hermes
+Ecosystems: PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: PSauerborn/hermes
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #3
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T01:42:16.333863
+Repository: https://github.com/allenai/beaker
+Ecosystems: Go, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: allenai/beaker
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #4
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T01:48:40.446392
+Repository: https://github.com/forensicanalysis/pyforensicstore
+Ecosystems: Go, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: forensicanalysis/pyforensicstore
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #5
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T01:49:27.089551
+Repository: https://github.com/pinnaculum/galacteek
+Ecosystems: Go, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: pinnaculum/galacteek
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #6
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:06:09.270878
+Repository: https://github.com/shoprunner/jupyter-notify
+Ecosystems: Go, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: shoprunner/jupyter-notify
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #7
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:13:42.515092
+Repository: https://github.com/ken-morel/shellsy
+Ecosystems: Go
+Error Type: NOT_FOUND
+Error Message: Repository not found: ken-morel/shellsy
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #8
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:13:42.800956
+Repository: https://github.com/ken-morel/shellsy/
+Ecosystems: PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: ken-morel/shellsy
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #9
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:18:19.490463
+Repository: https://github.com/machinexa2/nemesis
+Ecosystems: Go
+Error Type: NOT_FOUND
+Error Message: Repository not found: machinexa2/nemesis
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #10
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:18:19.772584
+Repository: https://github.com/machinexa2/Nemesis
+Ecosystems: PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: machinexa2/Nemesis
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #11
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:18:40.571978
+Repository: https://github.com/cnumr/ecoindex_cli
+Ecosystems: Go, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: cnumr/ecoindex_cli
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #12
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:26:47.098045
+Repository: https://github.com/lunary-ai/lunary
+Ecosystems: Go
+Error Type: NOT_FOUND
+Error Message: Repository not found: lunary-ai/lunary
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #13
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:26:47.416487
+Repository: https://github.com/lunary-ai/lunary/tree/main/packages/python-sdk
+Ecosystems: PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: lunary-ai/lunary
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #14
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:27:19.728031
+Repository: https://github.com/oloren-ai/olorenchemengine
+Ecosystems: Go
+Error Type: NOT_FOUND
+Error Message: Repository not found: oloren-ai/olorenchemengine
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #15
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T02:27:19.999677
+Repository: https://github.com/Oloren-AI/olorenchemengine
+Ecosystems: PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: Oloren-AI/olorenchemengine
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+

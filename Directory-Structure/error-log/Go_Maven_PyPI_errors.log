@@ -1,0 +1,39 @@
+================================================================================
+Error Log for Go_Maven_PyPI
+================================================================================
+Total Errors: 2
+Generated: 2025-12-02 06:39:38
+================================================================================
+
+Error #1
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T05:44:18.072729
+Repository: https://github.com/workiva/frugal
+Ecosystems: Go
+Error Type: NOT_FOUND
+Error Message: Repository not found: workiva/frugal
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #2
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T05:44:18.421301
+Repository: http://github.com/Workiva/frugal
+Ecosystems: Maven, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: Workiva/frugal
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+

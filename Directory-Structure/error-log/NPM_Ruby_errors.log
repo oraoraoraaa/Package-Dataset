@@ -1,0 +1,599 @@
+================================================================================
+Error Log for NPM_Ruby
+================================================================================
+Total Errors: 37
+Generated: 2025-12-02 06:39:38
+================================================================================
+
+Error #1
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:24:13.478822
+Repository: https://github.com/BuoySoftware/anchor_view_components
+Ecosystems: NPM, Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: BuoySoftware/anchor_view_components
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #2
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:24:39.698640
+Repository: https://github.com/FigurePOS/dev-tool-configuration
+Ecosystems: NPM, Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: FigurePOS/dev-tool-configuration
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #3
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:24:49.319440
+Repository: https://github.com/Shopify/sewing-kit
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: Shopify/sewing-kit
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #4
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:24:49.679968
+Repository: https://github.com/Shopify/sewing-kit/tree/main/gems/sewing_kit
+Ecosystems: Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: Shopify/sewing-kit
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #5
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:25:25.525493
+Repository: https://github.com/rainforestapp/wisp
+Ecosystems: NPM, Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: rainforestapp/wisp
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #6
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:25:52.514117
+Repository: https://github.com/TrailerVote/trailervote-api-clients/
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: TrailerVote/trailervote-api-clients
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #7
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:25:52.809983
+Repository: https://github.com/trailervote/trailervote-api-clients/blob/master/ruby
+Ecosystems: Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: trailervote/trailervote-api-clients
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #8
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:26:04.050624
+Repository: https://github.com/watermarkchurch/paper-signs
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: watermarkchurch/paper-signs
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #9
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:26:04.361718
+Repository: https://www.github.com/watermarkchurch/paper-signs
+Ecosystems: Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: watermarkchurch/paper-signs
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #10
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:26:04.675358
+Repository: https://github.com/wikipaddle/protobuf
+Ecosystems: NPM, Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: wikipaddle/protobuf
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #11
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:26:16.367601
+Repository: https://github.com/MarkusBansky/afgor-framework
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: MarkusBansky/afgor-framework
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #12
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:26:16.657890
+Repository: https://github.com/MarkusBansky/afgor-framework/tree/ruby-package
+Ecosystems: Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: MarkusBansky/afgor-framework
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #13
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:26:18.203330
+Repository: https://github.com/FineLinePrototyping/angularjs-rails-resource
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: FineLinePrototyping/angularjs-rails-resource
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #14
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:26:18.480475
+Repository: https://github.com/finelineprototyping/angularjs-rails-resource
+Ecosystems: Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: finelineprototyping/angularjs-rails-resource
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #15
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:26:52.384334
+Repository: https://github.com/username/bridgetown-avatar
+Ecosystems: NPM, Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: username/bridgetown-avatar
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #16
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:27:04.103100
+Repository: https://github.com/Crown-Commercial-Service/cmp-design-prototype
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: Crown-Commercial-Service/cmp-design-prototype
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #17
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:27:04.414858
+Repository: https://github.com/Crown-Commercial-Service/cmp-design-prototype/agreement-design
+Ecosystems: Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: Crown-Commercial-Service/cmp-design-prototype
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #18
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:27:33.048531
+Repository: https://github.com/gbarctester2/dpltest
+Ecosystems: NPM, Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: gbarctester2/dpltest
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #19
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:27:41.923793
+Repository: https://github.com/netguru/react_webpack_rails
+Ecosystems: NPM, Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: netguru/react_webpack_rails
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #20
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:28:16.170528
+Repository: https://github.com/llskin/rubyfacialmassage
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: llskin/rubyfacialmassage
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #21
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:28:16.455343
+Repository: https://github.com/llskin/rubyfacialmassage/
+Ecosystems: Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: llskin/rubyfacialmassage
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #22
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:28:31.841441
+Repository: https://github.com/powa/gtin
+Ecosystems: NPM, Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: powa/gtin
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #23
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:28:34.806759
+Repository: https://github.com/insiting/headmin
+Ecosystems: NPM, Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: insiting/headmin
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #24
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:28:36.182874
+Repository: https://github.com/marcoroth/herbst
+Ecosystems: NPM, Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: marcoroth/herbst
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #25
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:28:45.340595
+Repository: https://github.com/abd3lraouf/jekyll-theme-abd3lraouf
+Ecosystems: NPM, Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: abd3lraouf/jekyll-theme-abd3lraouf
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #26
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:29:31.840999
+Repository: https://github.com/jcaru/pigman
+Ecosystems: NPM, Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: jcaru/pigman
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #27
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:29:59.391078
+Repository: https://github.com/netguru/rwr-redux
+Ecosystems: NPM, Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: netguru/rwr-redux
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #28
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:29:59.998775
+Repository: https://github.com/netguru/rwr-alt
+Ecosystems: NPM, Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: netguru/rwr-alt
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #29
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:30:00.413775
+Repository: https://github.com/netguru/rwr-view_helpers
+Ecosystems: NPM, Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: netguru/rwr-view_helpers
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #30
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:30:00.706498
+Repository: https://github.com/s6kpay/s6kpay-sdks
+Ecosystems: NPM, Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: s6kpay/s6kpay-sdks
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #31
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:30:15.857347
+Repository: https://github.com/heroku/shibori
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: heroku/shibori
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #32
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:30:16.246458
+Repository: https://www.github.com/heroku/shibori
+Ecosystems: Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: heroku/shibori
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #33
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:30:27.917333
+Repository: https://github.com/fesuydev/tamem-scss
+Ecosystems: NPM, Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: fesuydev/tamem-scss
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #34
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:30:50.554733
+Repository: https://github.com/louiswdavis/utility_components
+Ecosystems: NPM, Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: louiswdavis/utility_components
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #35
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:30:50.893580
+Repository: https://github.com/louiswdavis/utility_forms
+Ecosystems: NPM, Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: louiswdavis/utility_forms
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #36
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:30:51.299731
+Repository: https://github.com/louiswdavis/utility_styles
+Ecosystems: NPM, Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: louiswdavis/utility_styles
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #37
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:30:51.613837
+Repository: https://github.com/louiswdavis/utility_ui
+Ecosystems: NPM, Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: louiswdavis/utility_ui
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+

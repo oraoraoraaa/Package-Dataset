@@ -1,0 +1,87 @@
+================================================================================
+Error Log for Crates_Ruby
+================================================================================
+Total Errors: 5
+Generated: 2025-12-02 06:39:38
+================================================================================
+
+Error #1
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:15:24.752653
+Repository: https://github.com/neonlaw/codebase
+Ecosystems: Crates, Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: neonlaw/codebase
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #2
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:15:31.110340
+Repository: https://github.com/jmse-json/jmse
+Ecosystems: Crates
+Error Type: NOT_FOUND
+Error Message: Repository not found: jmse-json/jmse
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #3
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:15:31.390649
+Repository: https://github.com/jmse-json/jmse/tree/master/ruby/
+Ecosystems: Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: jmse-json/jmse
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #4
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:15:33.857209
+Repository: https://github.com/easbarba/qas
+Ecosystems: Crates, Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: easbarba/qas
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #5
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:15:50.265019
+Repository: https://github.com/seuros/warpdrive
+Ecosystems: Crates, Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: seuros/warpdrive
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+

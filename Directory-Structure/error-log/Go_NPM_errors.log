@@ -1,0 +1,839 @@
+================================================================================
+Error Log for Go_NPM
+================================================================================
+Total Errors: 52
+Generated: 2025-12-02 06:39:38
+================================================================================
+
+Error #1
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:34:33.126757
+Repository: https://github.com/mobilechromeapps/mobile-chrome-apps
+Ecosystems: Go
+Error Type: NOT_FOUND
+Error Message: Repository not found: mobilechromeapps/mobile-chrome-apps
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #2
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:34:33.415403
+Repository: https://github.com/MobileChromeApps/mobile-chrome-apps
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: MobileChromeApps/mobile-chrome-apps
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #3
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:41:03.311951
+Repository: https://github.com/serverless/utils
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: serverless/utils
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #4
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:45:26.046812
+Repository: https://github.com/thx/rap
+Ecosystems: Go
+Error Type: NOT_FOUND
+Error Message: Repository not found: thx/rap
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #5
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:45:26.353295
+Repository: https://github.com/thx/RAP
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: thx/RAP
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #6
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:45:46.726553
+Repository: https://github.com/cosmology-tech/cosmology
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: cosmology-tech/cosmology
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #7
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:46:16.433608
+Repository: https://github.com/nordstrom/serverless-attach-managed-policy
+Ecosystems: Go
+Error Type: NOT_FOUND
+Error Message: Repository not found: nordstrom/serverless-attach-managed-policy
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #8
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:46:16.837923
+Repository: https://github.com/Nordstrom/serverless-attach-managed-policy
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: Nordstrom/serverless-attach-managed-policy
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #9
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:46:37.164085
+Repository: https://github.com/kubesphere/console
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: kubesphere/console
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #10
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:48:19.572116
+Repository: https://github.com/vestorly/torii
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: vestorly/torii
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #11
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:50:15.896972
+Repository: https://github.com/timada-org/cobase
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: timada-org/cobase
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #12
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:50:32.405936
+Repository: https://github.com/lukechilds/cacheable-request
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: lukechilds/cacheable-request
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #13
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:54:15.545720
+Repository: https://github.com/trevordmiller/nova-colors
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: trevordmiller/nova-colors
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #14
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:56:11.044952
+Repository: https://github.com/microsoft/vscode-postgresql
+Ecosystems: Go
+Error Type: NOT_FOUND
+Error Message: Repository not found: microsoft/vscode-postgresql
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #15
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:56:11.487228
+Repository: https://github.com/Microsoft/vscode-postgresql
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: Microsoft/vscode-postgresql
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #16
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:59:39.430175
+Repository: https://github.com/fodi999/fdcssframework
+Ecosystems: Go
+Error Type: NOT_FOUND
+Error Message: Repository not found: fodi999/fdcssframework
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #17
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T03:59:40.080328
+Repository: https://github.com/Fodi999/fdcssframework
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: Fodi999/fdcssframework
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #18
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T04:01:04.784345
+Repository: https://github.com/ingniius/meza
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: ingniius/meza
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #19
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T04:10:01.393589
+Repository: https://github.com/monax/hoard
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: monax/hoard
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #20
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T04:11:40.975075
+Repository: https://github.com/okera/pulumi-frontegg
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: okera/pulumi-frontegg
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #21
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T04:12:42.739087
+Repository: https://github.com/codesnug/anacl-js
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: codesnug/anacl-js
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #22
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T04:14:28.789946
+Repository: https://github.com/juststeveking/vue2-frappe
+Ecosystems: Go
+Error Type: NOT_FOUND
+Error Message: Repository not found: juststeveking/vue2-frappe
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #23
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T04:14:29.062035
+Repository: https://github.com/JustSteveKing/vue2-frappe
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: JustSteveKing/vue2-frappe
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #24
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T04:20:48.637516
+Repository: https://github.com/wundergraph/wundergraph
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: wundergraph/wundergraph
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #25
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T04:22:51.007817
+Repository: https://github.com/aliasio/wappalyzer
+Ecosystems: Go
+Error Type: NOT_FOUND
+Error Message: Repository not found: aliasio/wappalyzer
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #26
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T04:22:51.417250
+Repository: https://github.com/AliasIO/Wappalyzer/pull/2129
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: AliasIO/Wappalyzer
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #27
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T04:22:58.187060
+Repository: https://github.com/yangjuncode/yrpcmsg
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: yangjuncode/yrpcmsg
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #28
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T04:23:26.337784
+Repository: https://github.com/pulumi/mcp-server
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: pulumi/mcp-server
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #29
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T04:28:15.198650
+Repository: https://github.com/fraym/sync-proto
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: fraym/sync-proto
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #30
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T04:35:10.012302
+Repository: https://github.com/tlackemann/react-native-cube-transition
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: tlackemann/react-native-cube-transition
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #31
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T04:35:53.635936
+Repository: https://github.com/aurelia-toolbelt/aurelia-toolbelt
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: aurelia-toolbelt/aurelia-toolbelt
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #32
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T04:50:32.494840
+Repository: https://github.com/noisysockets/shell
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: noisysockets/shell
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #33
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T04:53:40.681636
+Repository: https://github.com/logit-io/javascript-logitio
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: logit-io/javascript-logitio
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #34
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T04:54:45.833778
+Repository: https://github.com/modernice/nice-cms
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: modernice/nice-cms
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #35
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T05:01:33.764686
+Repository: https://github.com/serhhatsari/askgpt
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: serhhatsari/askgpt
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #36
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T05:04:09.721626
+Repository: https://github.com/hashgraph/hedera-mirror-node
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: hashgraph/hedera-mirror-node
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #37
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T05:07:09.484431
+Repository: https://github.com/yamill/react-native-orientation
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: yamill/react-native-orientation
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #38
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T05:10:06.571688
+Repository: https://github.com/memphisdev/memphis-cli
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: memphisdev/memphis-cli
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #39
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T05:13:31.494825
+Repository: https://github.com/10gen/stitch-cli
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: 10gen/stitch-cli
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #40
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T05:17:18.165339
+Repository: https://github.com/fradser/mcp-server-apple-reminders
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: fradser/mcp-server-apple-reminders
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #41
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T05:19:39.493066
+Repository: https://github.com/josh/nack
+Ecosystems: Go
+Error Type: NOT_FOUND
+Error Message: Repository not found: josh/nack
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #42
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T05:19:39.778444
+Repository: http://github.com/josh/nack
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: josh/nack
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #43
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T05:22:09.677808
+Repository: https://github.com/olympus-protocol/ogen
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: olympus-protocol/ogen
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #44
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T05:23:28.606038
+Repository: https://github.com/snyk/vervet
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: snyk/vervet
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #45
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T05:30:11.502675
+Repository: https://github.com/janhq/cortex
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: janhq/cortex
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #46
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T05:30:51.053843
+Repository: https://github.com/lztll/adamoracle_v1
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: lztll/adamoracle_v1
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #47
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T05:32:29.884515
+Repository: https://github.com/zacharyp/sw-legion-data
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: zacharyp/sw-legion-data
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #48
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T05:33:29.065348
+Repository: https://github.com/samsung/react-native-tizen-dotnet
+Ecosystems: Go
+Error Type: NOT_FOUND
+Error Message: Repository not found: samsung/react-native-tizen-dotnet
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #49
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T05:33:29.338069
+Repository: https://github.com/Samsung/react-native-tizen-dotnet
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: Samsung/react-native-tizen-dotnet
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #50
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T05:38:28.412622
+Repository: https://github.com/golightstream/pulumi-grafana
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: golightstream/pulumi-grafana
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #51
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T05:39:07.665576
+Repository: https://github.com/sophearak/moul
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: sophearak/moul
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #52
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T05:43:00.679391
+Repository: https://github.com/onsonr/nebula
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: onsonr/nebula
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+

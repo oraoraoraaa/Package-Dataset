@@ -1,0 +1,183 @@
+================================================================================
+Error Log for NPM_PyPI_Ruby
+================================================================================
+Total Errors: 11
+Generated: 2025-12-02 06:39:38
+================================================================================
+
+Error #1
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T06:30:48.771130
+Repository: https://github.com/1deos/1OS
+Ecosystems: NPM, PyPI, Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: 1deos/1OS
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #2
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T06:30:51.610356
+Repository: https://github.com/Infisical/sdk
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: Infisical/sdk
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #3
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T06:30:51.920740
+Repository: https://github.com/infisical/sdk
+Ecosystems: PyPI, Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: infisical/sdk
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #4
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T06:30:52.187792
+Repository: https://github.com/ rguanghui/vue-sticky
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found:  rguanghui/vue-sticky
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #5
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T06:30:52.464368
+Repository: https://github.com/ 你的用户名/TkinterTabMore
+Ecosystems: PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found:  你的用户名/TkinterTabMore
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #6
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T06:30:52.696086
+Repository: http://github.com/#{github_username}/#{project_name}
+Ecosystems: Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: #{github_username}/
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #7
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T06:30:55.098069
+Repository: https://github.com/iqlusioninc/aes-sid
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: iqlusioninc/aes-sid
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #8
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T06:30:55.368292
+Repository: https://github.com/iqlusioninc/aes-sid/blob/develop/README.md
+Ecosystems: PyPI, Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: iqlusioninc/aes-sid
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #9
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T06:30:57.914527
+Repository: https://github.com/example/example
+Ecosystems: NPM, Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: example/example
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #10
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T06:30:58.188201
+Repository: http://github.com/example/example
+Ecosystems: PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: example/example
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #11
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T06:31:04.479774
+Repository: https://github.com/joshingmachine/kielbasa
+Ecosystems: NPM, PyPI, Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: joshingmachine/kielbasa
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+

@@ -1,0 +1,23 @@
+================================================================================
+Error Log for Crates_Maven_NPM
+================================================================================
+Total Errors: 1
+Generated: 2025-12-02 06:39:38
+================================================================================
+
+Error #1
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T05:45:24.226519
+Repository: https://github.com/Palash90/ganit
+Ecosystems: Crates, Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: Palash90/ganit
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+

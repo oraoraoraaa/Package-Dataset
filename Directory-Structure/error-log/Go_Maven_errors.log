@@ -1,0 +1,103 @@
+================================================================================
+Error Log for Go_Maven
+================================================================================
+Total Errors: 6
+Generated: 2025-12-02 06:39:38
+================================================================================
+
+Error #1
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T00:21:30.611561
+Repository: https://github.com/fangjinuo/easyjson
+Ecosystems: Go
+Error Type: NOT_FOUND
+Error Message: Repository not found: fangjinuo/easyjson
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #2
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T00:21:30.899600
+Repository: https://github.com/fangjinuo/easyjson.git
+Ecosystems: Maven
+Error Type: NOT_FOUND
+Error Message: Repository not found: fangjinuo/easyjson
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #3
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T00:22:59.496478
+Repository: https://github.com/keymaster65/copper2go
+Ecosystems: Go
+Error Type: NOT_FOUND
+Error Message: Repository not found: keymaster65/copper2go
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #4
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T00:22:59.906124
+Repository: https://github.com/Keymaster65/copper2go/
+Ecosystems: Maven
+Error Type: NOT_FOUND
+Error Message: Repository not found: Keymaster65/copper2go
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #5
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T00:27:08.950142
+Repository: https://github.com/sciss/scalacollider
+Ecosystems: Go
+Error Type: NOT_FOUND
+Error Message: Repository not found: sciss/scalacollider
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #6
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T00:27:09.299239
+Repository: https://github.com/Sciss/ScalaCollider
+Ecosystems: Maven
+Error Type: NOT_FOUND
+Error Message: Repository not found: Sciss/ScalaCollider
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+

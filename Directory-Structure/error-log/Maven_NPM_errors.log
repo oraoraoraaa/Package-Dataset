@@ -1,0 +1,4519 @@
+================================================================================
+Error Log for Maven_NPM
+================================================================================
+Total Errors: 282
+Generated: 2025-12-02 06:39:38
+================================================================================
+
+Error #1
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T20:20:19.230651
+Repository: https://github.com/UserLeap/sdk/tree/main
+Ecosystems: Maven
+Error Type: NOT_FOUND
+Error Message: Repository not found: UserLeap/sdk
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #2
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T20:20:19.559037
+Repository: https://github.com/UserLeap/sdk
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: UserLeap/sdk
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #3
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T20:20:52.120089
+Repository: https://github.com/player-ui/player-ui.git
+Ecosystems: Maven
+Error Type: NOT_FOUND
+Error Message: Repository not found: player-ui/player-ui
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #4
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T20:20:52.419758
+Repository: https://github.com/player-ui/player-ui
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: player-ui/player-ui
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #5
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T20:25:38.199928
+Repository: http://github.com/42Crunch/cicd-core/tree/master/java
+Ecosystems: Maven
+Error Type: NOT_FOUND
+Error Message: Repository not found: 42Crunch/cicd-core
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #6
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T20:25:38.543566
+Repository: https://github.com/42Crunch/cicd-core
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: 42Crunch/cicd-core
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #7
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T20:26:10.752303
+Repository: https://github.com/dyte-in/proto-entities
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: dyte-in/proto-entities
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #8
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T20:28:57.474807
+Repository: https://github.com/salesforce-experience-platform-emu/lwr
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: salesforce-experience-platform-emu/lwr
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #9
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T20:33:30.274852
+Repository: https://github.com/RadValentin/postcss-prefix-selector
+Ecosystems: Maven, NPM
+Error Type: TREE_ERROR
+Error Message: Error getting tree: HTTP 404
+
+Possible Reason:
+  The repository tree may be too large or the default branch may be empty. Try cloning the repository manually to inspect its structure.
+
+Suggested Solution:
+  The repository tree may be too large or the default branch may be empty. Try cloning the repository manually to inspect its structure.
+
+================================================================================
+
+Error #10
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T20:34:18.599990
+Repository: http://github.com/substack/node-commondir
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/node-commondir
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #11
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T20:36:12.158464
+Repository: https://github.com/Amoroth/lit-state
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: Amoroth/lit-state
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #12
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T20:36:12.767942
+Repository: https://github.com/rickevry/tailwindclientcss
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: rickevry/tailwindclientcss
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #13
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T20:39:11.699662
+Repository: http://github.com/substack/node-optimist
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/node-optimist
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #14
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T20:41:41.859999
+Repository: https://github.com/paulmillr/async-each
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: paulmillr/async-each
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #15
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T20:44:03.419152
+Repository: https://github.com/babel-plugins/babel-plugin-react-display-name
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: babel-plugins/babel-plugin-react-display-name
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #16
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T20:44:15.580111
+Repository: https://github.com/mrin9/apitools
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: mrin9/apitools
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #17
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T20:44:48.202852
+Repository: https://github.com/Financial-Times/polyfill-useragent-normaliser
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: Financial-Times/polyfill-useragent-normaliser
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #18
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T20:45:17.053108
+Repository: https://github.com/financial-times/polyfill-library
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: financial-times/polyfill-library
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #19
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T20:45:23.094500
+Repository: https://github.com/Financial-Times/useragent_parser
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: Financial-Times/useragent_parser
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #20
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T20:45:32.195369
+Repository: https://github.com/babel-plugins/babel-plugin-constant-folding
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: babel-plugins/babel-plugin-constant-folding
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #21
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T20:45:32.480287
+Repository: https://github.com/babel-plugins/babel-plugin-dead-code-elimination
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: babel-plugins/babel-plugin-dead-code-elimination
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #22
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T20:45:32.773731
+Repository: https://github.com/babel-plugins/babel-plugin-eval
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: babel-plugins/babel-plugin-eval
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #23
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T20:45:33.063861
+Repository: https://github.com/babel-plugins/babel-plugin-inline-environment-variables
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: babel-plugins/babel-plugin-inline-environment-variables
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #24
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T20:45:33.358020
+Repository: https://github.com/babel-plugins/babel-plugin-jscript
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: babel-plugins/babel-plugin-jscript
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #25
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T20:45:33.637416
+Repository: https://github.com/babel-plugins/babel-plugin-member-expression-literals
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: babel-plugins/babel-plugin-member-expression-literals
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #26
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T20:45:33.939975
+Repository: https://github.com/babel-plugins/babel-plugin-property-literals
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: babel-plugins/babel-plugin-property-literals
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #27
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T20:45:34.520527
+Repository: https://github.com/babel-plugins/babel-plugin-proto-to-assign
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: babel-plugins/babel-plugin-proto-to-assign
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #28
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T20:45:34.798795
+Repository: https://github.com/babel-plugins/babel-plugin-react-constant-elements
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: babel-plugins/babel-plugin-react-constant-elements
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #29
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T20:45:35.083554
+Repository: https://github.com/babel-plugins/babel-plugin-remove-console
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: babel-plugins/babel-plugin-remove-console
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #30
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T20:45:35.381190
+Repository: https://github.com/babel-plugins/babel-plugin-remove-debugger
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: babel-plugins/babel-plugin-remove-debugger
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #31
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T20:45:35.676042
+Repository: https://github.com/babel-plugins/babel-plugin-runtime
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: babel-plugins/babel-plugin-runtime
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #32
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T20:45:35.967842
+Repository: https://github.com/babel-plugins/babel-plugin-undefined-to-void
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: babel-plugins/babel-plugin-undefined-to-void
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #33
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T20:45:37.030888
+Repository: https://github.com/sebmck/try-resolve
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: sebmck/try-resolve
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #34
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T20:55:29.544264
+Repository: https://github.com/PlasmaLaboratories/plasma-protobuf-specs
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: PlasmaLaboratories/plasma-protobuf-specs
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #35
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T20:55:32.436340
+Repository: https://github.com/AzureAD/microsoft-authentication-library-for-cpp
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: AzureAD/microsoft-authentication-library-for-cpp
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #36
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T20:57:41.364047
+Repository: https://github.com/konfig-dev/newscatcher-sdks/tree/main/v3/java
+Ecosystems: Maven
+Error Type: NOT_FOUND
+Error Message: Repository not found: konfig-dev/newscatcher-sdks
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #37
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T20:57:41.702627
+Repository: https://github.com/konfig-dev/newscatcher-sdks
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: konfig-dev/newscatcher-sdks
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #38
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:00:38.779226
+Repository: https://github.com/CN-traveler/bootstrap-custom
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: CN-traveler/bootstrap-custom
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #39
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:04:12.067489
+Repository: https://github.com/Nastel/tnt4j-streams
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: Nastel/tnt4j-streams
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #40
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:04:12.435158
+Repository: https://github.com/swimos/swim
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: swimos/swim
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #41
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:06:36.187010
+Repository: https://github.com/lethexa/leaflet-tracksymbol
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: lethexa/leaflet-tracksymbol
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #42
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:07:33.709428
+Repository: https://github.com/nordhealth/design-system
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: nordhealth/design-system
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #43
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:07:53.454187
+Repository: https://github.com/jedmao/lavadrop
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: jedmao/lavadrop
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #44
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:09:40.668122
+Repository: https://github.com/micro-zoe/micro-app
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: micro-zoe/micro-app
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #45
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:13:32.882957
+Repository: https://github.com/segmentio/analytics.js-video-plugins
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: segmentio/analytics.js-video-plugins
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #46
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:18:29.212984
+Repository: https://github.com/decentro-in/decentro-in-collections-sdk/tree/master/java
+Ecosystems: Maven
+Error Type: NOT_FOUND
+Error Message: Repository not found: decentro-in/decentro-in-collections-sdk
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #47
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:18:29.538911
+Repository: https://github.com/decentro-in/decentro-in-collections-sdk#master
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: decentro-in/decentro-in-collections-sdk
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #48
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:20:24.695493
+Repository: https://github.com/decentro-in/decentro-in-kyc-sdk/tree/master/java
+Ecosystems: Maven
+Error Type: NOT_FOUND
+Error Message: Repository not found: decentro-in/decentro-in-kyc-sdk
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #49
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:20:25.194387
+Repository: https://github.com/decentro-in/decentro-in-kyc-sdk#master
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: decentro-in/decentro-in-kyc-sdk
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #50
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:20:35.650568
+Repository: https://github.com/sapo/Ink
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: sapo/Ink
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #51
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:20:49.543995
+Repository: https://github.com/Wikiki/bulma-switch
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: Wikiki/bulma-switch
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #52
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:20:55.179308
+Repository: https://github.com/sukh-idgateway/vue3-dropzone
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: sukh-idgateway/vue3-dropzone
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #53
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:22:47.575865
+Repository: https://github.com/shmilyhe/uas-core
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: shmilyhe/uas-core
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #54
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:23:26.830671
+Repository: https://github.com/fsx950223/chartjs-web-components
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: fsx950223/chartjs-web-components
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #55
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:24:57.753343
+Repository: https://github.com/metreeca/mark
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: metreeca/mark
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #56
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:25:13.895157
+Repository: https://github.com/musement/iso-duration
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: musement/iso-duration
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #57
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:31:32.266982
+Repository: https://github.com/thenativeweb/tailwind
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: thenativeweb/tailwind
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #58
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:31:32.552261
+Repository: https://github.com/thenativeweb/timer2
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: thenativeweb/timer2
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #59
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:31:32.840845
+Repository: https://github.com/thenativeweb/formats
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: thenativeweb/formats
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #60
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:31:33.137323
+Repository: https://github.com/thenativeweb/flaschenpost
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: thenativeweb/flaschenpost
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #61
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:31:33.431313
+Repository: https://github.com/thenativeweb/draht
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: thenativeweb/draht
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #62
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:31:33.700157
+Repository: https://github.com/thenativeweb/hase
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: thenativeweb/hase
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #63
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:31:34.392048
+Repository: https://github.com/thenativeweb/commands-events
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: thenativeweb/commands-events
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #64
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:31:35.698374
+Repository: https://github.com/thenativeweb/json-lines
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: thenativeweb/json-lines
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #65
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:31:35.967792
+Repository: https://github.com/thenativeweb/processenv
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: thenativeweb/processenv
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #66
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:31:36.547928
+Repository: https://github.com/thenativeweb/crypto2
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: thenativeweb/crypto2
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #67
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:31:36.844458
+Repository: https://github.com/thenativeweb/datasette
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: thenativeweb/datasette
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #68
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:31:37.175408
+Repository: https://github.com/thenativeweb/partof
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: thenativeweb/partof
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #69
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:31:37.565128
+Repository: https://github.com/thenativeweb/uuidv4
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: thenativeweb/uuidv4
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #70
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:31:37.860556
+Repository: https://github.com/thenativeweb/stethoskop
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: thenativeweb/stethoskop
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #71
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:31:38.143152
+Repository: https://github.com/thenativeweb/comparejs
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: thenativeweb/comparejs
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #72
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:32:03.882465
+Repository: https://github.com/nawforce/pkgforce
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: nawforce/pkgforce
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #73
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:32:46.788836
+Repository: https://github.com/lightningkite/ktor-kmongo
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: lightningkite/ktor-kmongo
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #74
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:32:50.663889
+Repository: https://github.com/thenativeweb/boolean
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: thenativeweb/boolean
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #75
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:33:57.698006
+Repository: https://github.com/substack/parse-color
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/parse-color
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #76
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:35:39.963011
+Repository: https://github.com/substack/endian-toggle
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/endian-toggle
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #77
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:36:39.820614
+Repository: https://github.com/cloudcamphq/cloudcamp.git
+Ecosystems: Maven
+Error Type: NOT_FOUND
+Error Message: Repository not found: cloudcamphq/cloudcamp
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #78
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:36:40.471637
+Repository: https://github.com/cloudcamphq/cloudcamp
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: cloudcamphq/cloudcamp
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #79
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:38:30.508612
+Repository: https://github.com/substack/point-in-polygon
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/point-in-polygon
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #80
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:40:22.768764
+Repository: https://github.com/substack/block-stream2
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/block-stream2
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #81
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:40:38.556373
+Repository: https://github.com/RightBrainTechBD/vue-awesome-icon-picker
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: RightBrainTechBD/vue-awesome-icon-picker
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #82
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:41:16.831061
+Repository: https://github.com/teamhanko/hanko-webauthn
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: teamhanko/hanko-webauthn
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #83
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:41:29.448536
+Repository: https://github.com/johandavidsen/grot-table
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: johandavidsen/grot-table
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #84
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:42:41.771239
+Repository: https://github.com/substack/point-at-length
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/point-at-length
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #85
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:43:11.861568
+Repository: https://github.com/sindresorhus/positive-zero
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: sindresorhus/positive-zero
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #86
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:43:19.930433
+Repository: https://github.com/sindresorhus/negative-zero
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: sindresorhus/negative-zero
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #87
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:45:15.188221
+Repository: https://github.com/hkhandan/kfoundation-scala
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: hkhandan/kfoundation-scala
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #88
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:46:05.482443
+Repository: https://github.com/cbmella/bootstrap4-validator
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: cbmella/bootstrap4-validator
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #89
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:50:23.439079
+Repository: https://github.com/ant-design/css-animation
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: ant-design/css-animation
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #90
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:50:58.172220
+Repository: https://github.com/arhs/iban.js
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: arhs/iban.js
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #91
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:52:34.285696
+Repository: https://github.com/Wikiki/bulma-accordion
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: Wikiki/bulma-accordion
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #92
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:52:34.556722
+Repository: https://github.com/Wikiki/bulma-carousel
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: Wikiki/bulma-carousel
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #93
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:52:55.896208
+Repository: https://github.com/riprasad/data-model-test
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: riprasad/data-model-test
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #94
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:53:44.907792
+Repository: https://github.com/substack/node-falafel
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/node-falafel
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #95
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:53:50.004059
+Repository: https://github.com/pytesNET/tail.DateTime
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: pytesNET/tail.DateTime
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #96
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:53:53.386400
+Repository: https://github.com/pytesNET/tail.select
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: pytesNET/tail.select
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #97
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:54:12.828524
+Repository: https://github.com/Kotlin/atomicfu
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: Kotlin/atomicfu
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #98
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:55:03.330912
+Repository: https://github.com/javadev/xml-to-json
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: javadev/xml-to-json
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #99
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:55:33.492726
+Repository: https://github.com/dangnelson/car-makes-icons
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: dangnelson/car-makes-icons
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #100
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:57:12.643910
+Repository: https://github.com/flosse/museo-npm
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: flosse/museo-npm
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #101
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:57:27.195515
+Repository: https://github.com/jhermsmeier/node-scuid
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: jhermsmeier/node-scuid
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #102
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:57:43.184605
+Repository: https://github.com:sporritt/jsPlumb
+Ecosystems: Maven, NPM
+Error Type: PARSE_ERROR
+Error Message: Could not parse GitHub URL: https://github.com:sporritt/jsPlumb
+
+Possible Reason:
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
+
+Suggested Solution:
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
+
+================================================================================
+
+Error #103
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:58:01.104022
+Repository: https://github.com/mui-org/react-transition-group
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: mui-org/react-transition-group
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #104
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:58:28.849112
+Repository: https://github.com/substack/insert-css
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/insert-css
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #105
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:58:50.902784
+Repository: https://github.com/jssor/slider
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: jssor/slider
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #106
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:58:55.879306
+Repository: https://github.com/salte-auth/redirect
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: salte-auth/redirect
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #107
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T21:58:56.167641
+Repository: https://github.com/salte-auth/cognito
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: salte-auth/cognito
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #108
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:00:36.249786
+Repository: https://github.com/Wikiki/bulma-timeline
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: Wikiki/bulma-timeline
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #109
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:00:41.922738
+Repository: https://github.com/Wikiki/bulma-checkradio
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: Wikiki/bulma-checkradio
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #110
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:00:42.210616
+Repository: https://github.com/Wikiki/bulma-tooltip
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: Wikiki/bulma-tooltip
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #111
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:01:02.757980
+Repository: https://github.com/Wikiki/bulma-slider
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: Wikiki/bulma-slider
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #112
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:01:17.709954
+Repository: https://github.com/peacetrue/peacetrue-iview
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: peacetrue/peacetrue-iview
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #113
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:02:18.425289
+Repository: https://github.com/darron1217/enjoyhint.js
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: darron1217/enjoyhint.js
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #114
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:03:26.878826
+Repository: https://github.com/ethanent/phin
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: ethanent/phin
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #115
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:04:28.953596
+Repository: https://github.com/hirohe/jquery-easyui
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: hirohe/jquery-easyui
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #116
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:05:43.917001
+Repository: https://github.com/shahata/dasherize
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: shahata/dasherize
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #117
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:07:03.215064
+Repository: https://github.com/peacetrue/vue-image-display
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: peacetrue/vue-image-display
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #118
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:07:26.601047
+Repository: https://github.com/Wikiki/bulma-extensions
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: Wikiki/bulma-extensions
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #119
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:08:03.331404
+Repository: https://github.com/valleweb/valle-switch
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: valleweb/valle-switch
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #120
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:09:10.423276
+Repository: https://github.com/olimsaidov/typeface-rubik-cyrillic
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: olimsaidov/typeface-rubik-cyrillic
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #121
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:09:54.438095
+Repository: https://github.com/substack/node-findit
+Ecosystems: Maven
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/node-findit
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #122
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:09:54.733386
+Repository: http://github.com/substack/node-findit
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/node-findit
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #123
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:09:55.764399
+Repository: https://github.com/jviotti/unicode-length
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: jviotti/unicode-length
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #124
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:10:31.487598
+Repository: https://github.com/cssinjs/jss-isolate
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: cssinjs/jss-isolate
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #125
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:11:03.979252
+Repository: https://github.com/brunoseco/vue-pagination-bootstrap
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: brunoseco/vue-pagination-bootstrap
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #126
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:11:04.358073
+Repository: https://github.com/mmckegg/json-query
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: mmckegg/json-query
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #127
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:11:09.262295
+Repository: https://github.com/Wikiki/bulma-badge
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: Wikiki/bulma-badge
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #128
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:12:06.938709
+Repository: https://github.com/plotly/glsl-out-of-range
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: plotly/glsl-out-of-range
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #129
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:12:40.231452
+Repository: https://github.com/racker/node-elementtree
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: racker/node-elementtree
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #130
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:13:59.888206
+Repository: https://github.com/advanced-rest-client/api-schema-document
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: advanced-rest-client/api-schema-document
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #131
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:16:08.489256
+Repository: https://github.com/substack/node-hashish
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/node-hashish
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #132
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:16:41.500776
+Repository: https://github.com/substack/get-browser-rtc
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/get-browser-rtc
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #133
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:17:00.108012
+Repository: https://github.com/Wikiki/bulma-ribbon
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: Wikiki/bulma-ribbon
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #134
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:17:00.723126
+Repository: https://github.com/Wikiki/bulma-pricingtable
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: Wikiki/bulma-pricingtable
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #135
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:17:58.143973
+Repository: https://github.com/berkan52/select2-bootstrap4-theme
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: berkan52/select2-bootstrap4-theme
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #136
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:18:45.244506
+Repository: https://github.com/pgrimard/Skeleton
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: pgrimard/Skeleton
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #137
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:18:57.250638
+Repository: https://github.com/alexbrillant/react-native-deck-swiper
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: alexbrillant/react-native-deck-swiper
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #138
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:20:16.930015
+Repository: https://github.com/substack/outpipe
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/outpipe
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #139
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:21:10.476205
+Repository: https://github.com/substack/node-hat
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/node-hat
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #140
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:22:57.891069
+Repository: https://github.com/cpettitt/cp-data
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: cpettitt/cp-data
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #141
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:23:08.113817
+Repository: https://github.com/8fold/marked
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: 8fold/marked
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #142
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:23:48.756320
+Repository: https://github.com/egonolieux/bootstrap-imageupload
+Ecosystems: Maven
+Error Type: NOT_FOUND
+Error Message: Repository not found: egonolieux/bootstrap-imageupload
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #143
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:23:49.049462
+Repository: https://egonolieux@github.com/egonolieux/bootstrap-imageupload
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: egonolieux/bootstrap-imageupload
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #144
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:24:07.090497
+Repository: https://github.com/substack/utf8-bytes
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/utf8-bytes
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #145
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:24:43.861835
+Repository: https://github.com/substack/node-mkdirp
+Ecosystems: Maven
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/node-mkdirp
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #146
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:24:44.141314
+Repository: http://github.com/substack/node-mkdirp
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/node-mkdirp
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #147
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:25:13.675435
+Repository: https://github.com/cssinjs/react-jss
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: cssinjs/react-jss
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #148
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:25:14.290328
+Repository: https://github.com/cssinjs/jss-expand
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: cssinjs/jss-expand
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #149
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:25:14.595501
+Repository: https://github.com/substack/node-wordwrap
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/node-wordwrap
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #150
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:25:24.245943
+Repository: https://github.com/daishihmr/vox.js
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: daishihmr/vox.js
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #151
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:26:15.907201
+Repository: https://github.com/substack/json-stable-stringify
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/json-stable-stringify
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #152
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:27:10.630815
+Repository: https://github.com/flitbit/json-path
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: flitbit/json-path
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #153
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:27:10.903742
+Repository: https://github.com/blakeembrey/sentence-case
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: blakeembrey/sentence-case
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #154
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:27:11.207887
+Repository: https://github.com/flitbit/json-ptr
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: flitbit/json-ptr
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #155
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:28:06.012651
+Repository: https://github.com/computes/functions
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: computes/functions
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #156
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:29:31.239891
+Repository: https://github.com/groupon/cson-parser
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: groupon/cson-parser
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #157
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:30:13.227555
+Repository: https://github.com/substack/minimist
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/minimist
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #158
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:30:40.365566
+Repository: https://github.com/substack/semver-compare
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/semver-compare
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #159
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:32:20.499496
+Repository: https://github.com/ag-grid/ag-grid-angular
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: ag-grid/ag-grid-angular
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #160
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:33:39.071839
+Repository: https://github.com/SimpleElements/simple-callout
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: SimpleElements/simple-callout
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #161
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:33:54.508259
+Repository: https://github.com/IBMResearch/ibm-tabs
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: IBMResearch/ibm-tabs
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #162
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:34:00.024825
+Repository: https://github.com/valleweb/valle-fab
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: valleweb/valle-fab
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #163
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:34:37.307874
+Repository: https://github.com/tallesl/node-emojis
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: tallesl/node-emojis
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #164
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:36:21.283643
+Repository: https://github.com/roecrew/zam
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: roecrew/zam
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #165
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:37:51.009126
+Repository: https://github.com/Wikiki/bulma-steps
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: Wikiki/bulma-steps
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #166
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:38:09.811455
+Repository: https://github.com/substack/resumer
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/resumer
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #167
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:38:27.514268
+Repository: https://github.com/substack/gamma.js
+Ecosystems: Maven
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/gamma.js
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #168
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:38:27.819936
+Repository: http://github.com/substack/gamma.js
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/gamma.js
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #169
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:39:12.608074
+Repository: https://github.com/mapbox/gl-matrix
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: mapbox/gl-matrix
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #170
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:39:47.506925
+Repository: https://github.com/trufflesuite/truffle-contract
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: trufflesuite/truffle-contract
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #171
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:40:13.951411
+Repository: https://github.com/xDae/react-plyr
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: xDae/react-plyr
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #172
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:40:19.105389
+Repository: https://github.com/substack/quote-stream
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/quote-stream
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #173
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:40:33.659361
+Repository: https://github.com/cssinjs/jss-global
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: cssinjs/jss-global
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #174
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:40:34.828953
+Repository: https://github.com/cssinjs/jss-template
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: cssinjs/jss-template
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #175
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:40:35.199211
+Repository: https://github.com/cssinjs/jss-compose
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: cssinjs/jss-compose
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #176
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:40:37.819216
+Repository: https://github.com/cssinjs/jss-camel-case
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: cssinjs/jss-camel-case
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #177
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:40:38.785990
+Repository: https://github.com/cssinjs/jss-vendor-prefixer
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: cssinjs/jss-vendor-prefixer
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #178
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:40:39.310335
+Repository: https://github.com/cssinjs/jss-extend
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: cssinjs/jss-extend
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #179
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:40:39.835371
+Repository: https://github.com/cssinjs/jss-default-unit
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: cssinjs/jss-default-unit
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #180
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:40:41.409419
+Repository: https://github.com/cssinjs/jss-props-sort
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: cssinjs/jss-props-sort
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #181
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:40:41.934378
+Repository: https://github.com/cssinjs/jss-nested
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: cssinjs/jss-nested
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #182
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:40:53.325775
+Repository: https://github.com/servicechannel/selectize
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: servicechannel/selectize
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #183
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:41:23.458534
+Repository: https://github.com/substack/github-from-package
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/github-from-package
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #184
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:41:25.852833
+Repository: https://github.com/trappsnl/dstore-leveldb
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: trappsnl/dstore-leveldb
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #185
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:41:40.127984
+Repository: https://github.com/trappsnl/dstore-postgresql
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: trappsnl/dstore-postgresql
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #186
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:41:40.654658
+Repository: https://github.com/trappsnl/dstore-helpers
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: trappsnl/dstore-helpers
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #187
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:43:03.136517
+Repository: https://github.com/substack/astw
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/astw
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #188
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:43:05.540798
+Repository: https://github.com/substack/https-browserify
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/https-browserify
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #189
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:43:13.187867
+Repository: https://github.com/crypto-browserify/crypto-browserify
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: crypto-browserify/crypto-browserify
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #190
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:45:21.598850
+Repository: https://github.com/Social-chan/BS4-SC
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: Social-chan/BS4-SC
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #191
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:45:59.762081
+Repository: https://github.com/jhermsmeier/node-google-polyline
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: jhermsmeier/node-google-polyline
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #192
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:46:58.371800
+Repository: https://github.com/substack/node-charm
+Ecosystems: Maven
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/node-charm
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #193
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:46:58.686489
+Repository: http://github.com/substack/node-charm
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/node-charm
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #194
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:47:47.908304
+Repository: https://github.com/cchandurkar/Numbers.js
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: cchandurkar/Numbers.js
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #195
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:48:41.806511
+Repository: https://github.com/clementdemily/jscolor
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: clementdemily/jscolor
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #196
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:48:58.370185
+Repository: https://github.com/shaiatias/flot-axislabels
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: shaiatias/flot-axislabels
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #197
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:49:15.408938
+Repository: https://github.com/gejgalis/izi-js
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: gejgalis/izi-js
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #198
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:50:08.836861
+Repository: https://github.com/classcraft/cytoscape.js-canvas
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: classcraft/cytoscape.js-canvas
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #199
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:50:40.859757
+Repository: https://github.com/ben-eb/postcss-reduce-idents
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: ben-eb/postcss-reduce-idents
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #200
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:51:52.276980
+Repository: https://github.com/keycloak/keycloak-js-bower
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: keycloak/keycloak-js-bower
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #201
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:51:56.782422
+Repository: https://github.com/nieyuge/jquery-easyui
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: nieyuge/jquery-easyui
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #202
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:52:09.985803
+Repository: https://github.com/blakeembrey/title-case
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: blakeembrey/title-case
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #203
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:52:10.276773
+Repository: https://github.com/cucumber/cucumber-expressions-javascript
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: cucumber/cucumber-expressions-javascript
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #204
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:52:15.004554
+Repository: https://github.com/riggerthegeek/ng-page-title
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: riggerthegeek/ng-page-title
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #205
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:52:35.663266
+Repository: https://github.com/james-oldfield/three-js-csg
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: james-oldfield/three-js-csg
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #206
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:53:22.185283
+Repository: http://github.com/datathings/greycat.git
+Ecosystems: Maven
+Error Type: NOT_FOUND
+Error Message: Repository not found: datathings/greycat
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #207
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:53:22.574696
+Repository: https://github.com/datathings/greycat
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: datathings/greycat
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #208
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:53:26.406971
+Repository: http://github.com/datathings/java2typescript.git
+Ecosystems: Maven
+Error Type: NOT_FOUND
+Error Message: Repository not found: datathings/java2typescript
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #209
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:53:26.765127
+Repository: https://github.com/datathings/java2typescript
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: datathings/java2typescript
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #210
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:54:05.585053
+Repository: https://github.com/dlmma/webcomponentsjs
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: dlmma/webcomponentsjs
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #211
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:54:23.166318
+Repository: https://github.com/forsigner/magic-check
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: forsigner/magic-check
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #212
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:54:48.034543
+Repository: https://github.com/jhermsmeier/node-http-link-header
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: jhermsmeier/node-http-link-header
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #213
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:54:53.081476
+Repository: https://github.com/rochappy/Bootstrap-Confirmation
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: rochappy/Bootstrap-Confirmation
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #214
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:55:42.809762
+Repository: https://github.com/doctub/cdn
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: doctub/cdn
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #215
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:55:54.196057
+Repository: https://github.com/idiot/unslider
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: idiot/unslider
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #216
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:55:55.898795
+Repository: https://github.com/juank11memphis/angular-jk-carousel
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: juank11memphis/angular-jk-carousel
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #217
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:56:00.990469
+Repository: https://github.com/kekeh/mydatepicker
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: kekeh/mydatepicker
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #218
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:56:39.950708
+Repository: https://github.com/Globegitter/chartist-plugin-tooltip
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: Globegitter/chartist-plugin-tooltip
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #219
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:56:56.776622
+Repository: https://github.com/WoltersKluwerPL/ng-spin-kit
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: WoltersKluwerPL/ng-spin-kit
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #220
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:57:25.887980
+Repository: https://github.com/PointInside/ng2-toastr
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: PointInside/ng2-toastr
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #221
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:57:59.649974
+Repository: https://github.com/airmap/js-auth
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: airmap/js-auth
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #222
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:58:44.064695
+Repository: https://github.com/apollographql/graphql-anywhere
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: apollographql/graphql-anywhere
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #223
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:58:54.666350
+Repository: https://github.com/marcosmoura/angular-material-sidemenu
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: marcosmoura/angular-material-sidemenu
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #224
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:59:32.205336
+Repository: https://github.com/ttungbmt/react-ui-layout
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: ttungbmt/react-ui-layout
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #225
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T22:59:36.145894
+Repository: https://github.com/vitalbone/trunc
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: vitalbone/trunc
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #226
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:00:35.940844
+Repository: https://github.com/substack/node-chainsaw
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/node-chainsaw
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #227
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:00:39.115828
+Repository: https://github.com/substack/node-binary
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/node-binary
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #228
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:00:53.811035
+Repository: https://github.com/activitystream/mithril-migrate
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: activitystream/mithril-migrate
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #229
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:01:23.554491
+Repository: https://github.com/apoterenko/ts-smart-logger
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: apoterenko/ts-smart-logger
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #230
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:01:23.940118
+Repository: https://github.com/apoterenko/angular2-cache
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: apoterenko/angular2-cache
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #231
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:02:29.504588
+Repository: https://github.com/substack/stream-combiner2
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/stream-combiner2
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #232
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:02:51.588698
+Repository: https://github.com/zippyui/react-date-picker
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: zippyui/react-date-picker
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #233
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:03:53.535113
+Repository: https://github.com/substack/node-editor
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/node-editor
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #234
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:03:54.726959
+Repository: http://github.com/substack/node-archy
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/node-archy
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #235
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:05:28.630828
+Repository: https://github.com/TAPP-TV/react-cropperjs
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: TAPP-TV/react-cropperjs
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #236
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:08:35.160983
+Repository: https://github.com/Geta/angular-timepicker
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: Geta/angular-timepicker
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #237
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:08:55.634998
+Repository: https://github.com/danielflower/karma-js-coverage
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: danielflower/karma-js-coverage
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #238
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:09:05.286134
+Repository: https://github.com/lesterzone/promise-ajax
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: lesterzone/promise-ajax
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #239
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:09:15.754563
+Repository: https://github.com/substack/read-only-stream
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/read-only-stream
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #240
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:09:17.963964
+Repository: https://github.com/substack/lexical-scope
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/lexical-scope
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #241
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:09:30.627922
+Repository: https://github.com/samu/angular-table
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: samu/angular-table
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #242
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:09:40.305829
+Repository: https://github.com/Jimdo/angular-spectrum-colorpicker
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: Jimdo/angular-spectrum-colorpicker
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #243
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:10:08.433904
+Repository: https://github.com/coolaj86/unibabel-js
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: coolaj86/unibabel-js
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #244
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:10:19.454204
+Repository: https://github.com/substack/text-table
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/text-table
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #245
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:11:17.772810
+Repository: https://github.com/albertedevigo/dcjqaccordion
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: albertedevigo/dcjqaccordion
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #246
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:12:00.695715
+Repository: https://github.com/OwlFonk/OwlCarousel
+Ecosystems: Maven, NPM
+Error Type: TREE_ERROR
+Error Message: Error getting tree: HTTP 409
+
+Possible Reason:
+  The repository tree may be too large or the default branch may be empty. Try cloning the repository manually to inspect its structure.
+
+Suggested Solution:
+  The repository tree may be too large or the default branch may be empty. Try cloning the repository manually to inspect its structure.
+
+================================================================================
+
+Error #247
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:13:36.118448
+Repository: https://github.com/blakeembrey/upper-case
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: blakeembrey/upper-case
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #248
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:13:36.406503
+Repository: https://github.com/blakeembrey/lower-case-first
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: blakeembrey/lower-case-first
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #249
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:13:37.162017
+Repository: https://github.com/blakeembrey/is-upper-case
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: blakeembrey/is-upper-case
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #250
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:13:37.451781
+Repository: https://github.com/blakeembrey/is-lower-case
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: blakeembrey/is-lower-case
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #251
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:13:37.826386
+Repository: https://github.com/blakeembrey/swap-case
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: blakeembrey/swap-case
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #252
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:13:38.968514
+Repository: https://github.com/carlos-algms/FileSaver.js
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: carlos-algms/FileSaver.js
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #253
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:13:41.664888
+Repository: https://github.com/kurt-stolle/game-server-query
+Ecosystems: Maven, NPM
+Error Type: API_ERROR
+Error Message: Error getting repo info: HTTP 451
+
+Possible Reason:
+  Check your internet connection and GitHub API status. If the problem persists, the repository may have issues or GitHub API may be down.
+
+Suggested Solution:
+  Check your internet connection and GitHub API status. If the problem persists, the repository may have issues or GitHub API may be down.
+
+================================================================================
+
+Error #254
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:13:53.407877
+Repository: https://github.com/Toilal/angular-material-components
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: Toilal/angular-material-components
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #255
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:14:23.296475
+Repository: http://github.com/kapouer/jquery-browser
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: kapouer/jquery-browser
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #256
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:14:42.705461
+Repository: https://github.com/alxlit/bootstrap-chosen
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: alxlit/bootstrap-chosen
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #257
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:14:44.412844
+Repository: https://github.com/Conductor/backbone.hoard
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: Conductor/backbone.hoard
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #258
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:14:48.399860
+Repository: https://github.com/danielfm/jshamcrest
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: danielfm/jshamcrest
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #259
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:15:14.538996
+Repository: https://github.com/laughingMan/phantomjs2.0
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: laughingMan/phantomjs2.0
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #260
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:15:32.936861
+Repository: https://github.com/radubrehar/react-style-normalizer
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: radubrehar/react-style-normalizer
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #261
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:15:33.985387
+Repository: https://github.com/radubrehar/DragHelper
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: radubrehar/DragHelper
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #262
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:15:34.505951
+Repository: https://github.com/vdom-benchmark/vdom-benchmark-base
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: vdom-benchmark/vdom-benchmark-base
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #263
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:15:37.205774
+Repository: https://github.com/substack/shoe
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/shoe
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #264
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:15:50.356812
+Repository: http://github.com/substack/node-ap
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/node-ap
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #265
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:15:57.730620
+Repository: https://github.com/substack/subarg
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/subarg
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #266
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:15:58.024481
+Repository: https://github.com/substack/node-parents
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/node-parents
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #267
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:15:58.319419
+Repository: https://github.com/substack/shallow-copy
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: substack/shallow-copy
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #268
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:16:50.165155
+Repository: https://github.com/madglory/backbone-fetch-cache
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: madglory/backbone-fetch-cache
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #269
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:17:19.577917
+Repository: https://github.com/BA-Group/sizeme.js
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: BA-Group/sizeme.js
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #270
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:18:11.168264
+Repository: https://github.com/radubrehar/arrow-style
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: radubrehar/arrow-style
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #271
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:18:11.478210
+Repository: https://github.com/radubrehar/functionally
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: radubrehar/functionally
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #272
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:18:12.156810
+Repository: https://github.com/radubrehar/stylus-normalizer
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: radubrehar/stylus-normalizer
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #273
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:18:12.445034
+Repository: https://github.com/radubrehar/has-touch
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: radubrehar/has-touch
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #274
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:18:12.741052
+Repository: https://github.com/radubrehar/buffer-function
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: radubrehar/buffer-function
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #275
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:18:16.215469
+Repository: https://github.com/radubrehar/newify
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: radubrehar/newify
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #276
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:18:16.602410
+Repository: https://github.com/radubrehar/region-align
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: radubrehar/region-align
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #277
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:18:16.877276
+Repository: https://github.com/zippyui/react-simple-toolbar
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: zippyui/react-simple-toolbar
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #278
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:18:17.160829
+Repository: https://github.com/radubrehar/react-event-names
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: radubrehar/react-event-names
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #279
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:18:17.740743
+Repository: https://github.com/radubrehar/css-utils
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: radubrehar/css-utils
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #280
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:18:18.040018
+Repository: https://github.com/radubrehar/region
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: radubrehar/region
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #281
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:18:18.668452
+Repository: https://github.com/radubrehar/i-s
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: radubrehar/i-s
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #282
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-01T23:18:24.004959
+Repository: https://github.com/radubrehar/ustring
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: radubrehar/ustring
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+

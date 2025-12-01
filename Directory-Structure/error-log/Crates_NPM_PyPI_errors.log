@@ -1,0 +1,311 @@
+================================================================================
+Error Log for Crates_NPM_PyPI
+================================================================================
+Total Errors: 19
+Generated: 2025-12-02 06:39:38
+================================================================================
+
+Error #1
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T06:25:16.368089
+Repository: https://github.com/traittech/trait-keyless/
+Ecosystems: Crates
+Error Type: NOT_FOUND
+Error Message: Repository not found: traittech/trait-keyless
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #2
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T06:25:16.672618
+Repository: https://github.com/traittech/trait-keyless
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: traittech/trait-keyless
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #3
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T06:25:16.978415
+Repository: https://github.com/traittech/trait-keyless.git
+Ecosystems: PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: traittech/trait-keyless
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #4
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T06:25:20.148334
+Repository: https://github.com/raugfer/ulibrs
+Ecosystems: Crates, NPM, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: raugfer/ulibrs
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #5
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T06:25:21.379879
+Repository: https://github.com/brunieland/brunie
+Ecosystems: Crates, NPM, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: brunieland/brunie
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #6
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T06:25:21.649132
+Repository: https://github.com/zcred/zhash
+Ecosystems: Crates, NPM, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: zcred/zhash
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #7
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T06:25:30.930837
+Repository: https://github.com/your/repo
+Ecosystems: Crates, NPM, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: your/repo
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #8
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T06:25:34.271915
+Repository: https://github.com/hivellm/compression-prompt
+Ecosystems: Crates, NPM, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: hivellm/compression-prompt
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #9
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T06:25:35.285570
+Repository: https://github.com/zcred/verihash
+Ecosystems: Crates, NPM, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: zcred/verihash
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #10
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T06:26:04.134336
+Repository: https://github.com/siftdb/siftdb
+Ecosystems: Crates, NPM, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: siftdb/siftdb
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #11
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T06:26:08.488910
+Repository: https://github.com/miscreant/minclib
+Ecosystems: Crates, NPM, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: miscreant/minclib
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #12
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T06:26:27.940220
+Repository: https://github.com/votre-username/votre-repo
+Ecosystems: Crates, NPM, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: votre-username/votre-repo
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #13
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T06:26:28.208532
+Repository: https://github.com/Chinilla/chinillaclvm_rs/
+Ecosystems: Crates, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: Chinilla/chinillaclvm_rs
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #14
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T06:26:28.482429
+Repository: https://github.com/Chinilla/chinillaclvm_rs
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: Chinilla/chinillaclvm_rs
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #15
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T06:26:52.291961
+Repository: https://github.com/yourusername/your-repo
+Ecosystems: Crates, NPM, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: yourusername/your-repo
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #16
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T06:26:54.812971
+Repository: https://github.com/dylanljones/rbox
+Ecosystems: Crates, NPM, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: dylanljones/rbox
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #17
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T06:27:03.373804
+Repository: https://github.com/shenxiangzhuang/valdo
+Ecosystems: Crates, NPM, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: shenxiangzhuang/valdo
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #18
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T06:27:06.128242
+Repository: https://github.com/thirdkey/schemapin
+Ecosystems: Crates, NPM, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: thirdkey/schemapin
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #19
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-02T06:27:42.337608
+Repository: https://github.com/jayminwest/kota-db
+Ecosystems: Crates, NPM, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: jayminwest/kota-db
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
