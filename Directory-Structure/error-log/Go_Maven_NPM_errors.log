@@ -1,17 +1,17 @@
 ================================================================================
 Error Log for Go_Maven_NPM
 ================================================================================
-Total Errors: 4
-Generated: 2025-12-02 06:39:38
+Total Errors: 8
+Generated: 2025-12-16 08:24:11
 ================================================================================
 
 Error #1
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T06:00:12.804182
-Repository: https://github.com/hootsuite/grid
+Timestamp: 2025-12-16T07:12:50.942717
+Repository: https://github.com/lukechilds/cacheable-request
 Ecosystems: Go, Maven, NPM
 Error Type: NOT_FOUND
-Error Message: Repository not found: hootsuite/grid
+Error Message: Repository not found: lukechilds/cacheable-request
 
 Possible Reason:
   Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
@@ -23,7 +23,7 @@ Suggested Solution:
 
 Error #2
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T06:07:11.395370
+Timestamp: 2025-12-16T07:15:52.510738
 Repository: https://github.com/flitbit/diff
 Ecosystems: Go, Maven, NPM
 Error Type: NOT_FOUND
@@ -39,11 +39,11 @@ Suggested Solution:
 
 Error #3
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T06:07:16.436037
-Repository: https://github.com/marak/faker.js
+Timestamp: 2025-12-16T07:24:46.917961
+Repository: https://github.com/wikiki/bulma-timeline
 Ecosystems: Go
 Error Type: NOT_FOUND
-Error Message: Repository not found: marak/faker.js
+Error Message: Repository not found: wikiki/bulma-timeline
 
 Possible Reason:
   Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
@@ -55,11 +55,75 @@ Suggested Solution:
 
 Error #4
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T06:07:16.706188
-Repository: https://github.com/Marak/Faker.js
+Timestamp: 2025-12-16T07:24:47.202181
+Repository: https://github.com/Wikiki/bulma-timeline
 Ecosystems: Maven, NPM
 Error Type: NOT_FOUND
-Error Message: Repository not found: Marak/Faker.js
+Error Message: Repository not found: Wikiki/bulma-timeline
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #5
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T07:39:48.072374
+Repository: https://github.com/wikiki/bulma-carousel
+Ecosystems: Go
+Error Type: NOT_FOUND
+Error Message: Repository not found: wikiki/bulma-carousel
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #6
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T07:39:48.359937
+Repository: https://github.com/Wikiki/bulma-carousel
+Ecosystems: Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: Wikiki/bulma-carousel
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #7
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T07:47:54.844446
+Repository: https://github.com/fsx950223/chartjs-web-components
+Ecosystems: Go, Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: fsx950223/chartjs-web-components
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #8
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T07:54:04.023316
+Repository: https://github.com/hootsuite/grid
+Ecosystems: Go, Maven, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: hootsuite/grid
 
 Possible Reason:
   Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.

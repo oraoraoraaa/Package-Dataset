@@ -2,28 +2,12 @@
 Error Log for Go_Ruby
 ================================================================================
 Total Errors: 7
-Generated: 2025-12-02 06:39:38
+Generated: 2025-12-16 08:24:11
 ================================================================================
 
 Error #1
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-01T23:37:21.558723
-Repository: https://github.com/p0deje/spring-commands-rubocop
-Ecosystems: Go, Ruby
-Error Type: NOT_FOUND
-Error Message: Repository not found: p0deje/spring-commands-rubocop
-
-Possible Reason:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
-
-Suggested Solution:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
-
-================================================================================
-
-Error #2
---------------------------------------------------------------------------------
-Timestamp: 2025-12-01T23:40:16.186692
+Timestamp: 2025-12-15T20:29:07.149627
 Repository: https://github.com/flintinatux/spintax_parser
 Ecosystems: Go, Ruby
 Error Type: NOT_FOUND
@@ -37,41 +21,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #3
+Error #2
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-01T23:44:12.823328
-Repository: https://github.com/rundocs/jekyll-rtd-theme
-Ecosystems: Go, Ruby
-Error Type: NOT_FOUND
-Error Message: Repository not found: rundocs/jekyll-rtd-theme
-
-Possible Reason:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
-
-Suggested Solution:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
-
-================================================================================
-
-Error #4
---------------------------------------------------------------------------------
-Timestamp: 2025-12-01T23:50:50.026396
-Repository: https://github.com/devnull-tools/sherlog-holmes
-Ecosystems: Go, Ruby
-Error Type: NOT_FOUND
-Error Message: Repository not found: devnull-tools/sherlog-holmes
-
-Possible Reason:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
-
-Suggested Solution:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
-
-================================================================================
-
-Error #5
---------------------------------------------------------------------------------
-Timestamp: 2025-12-01T23:51:54.759730
+Timestamp: 2025-12-15T20:32:32.850951
 Repository: https://github.com/mochizukikotaro/regex_sample
 Ecosystems: Go, Ruby
 Error Type: NOT_FOUND
@@ -85,13 +37,61 @@ Suggested Solution:
 
 ================================================================================
 
+Error #3
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T20:38:14.708708
+Repository: https://github.com/usmu/usmu
+Ecosystems: Go, Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: usmu/usmu
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #4
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T20:38:17.295826
+Repository: https://github.com/monkeylearn/monkeylearn-ruby
+Ecosystems: Go, Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: monkeylearn/monkeylearn-ruby
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #5
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T20:44:55.404772
+Repository: https://github.com/p0deje/spring-commands-rubocop
+Ecosystems: Go, Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: p0deje/spring-commands-rubocop
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
 Error #6
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-01T23:52:48.981521
-Repository: https://github.com/bazaarvoice/cloudformation-ruby-dsl
-Ecosystems: Go
+Timestamp: 2025-12-15T20:49:22.141089
+Repository: https://github.com/0xshariq/ruby_package_installer_cli
+Ecosystems: Go, Ruby
 Error Type: NOT_FOUND
-Error Message: Repository not found: bazaarvoice/cloudformation-ruby-dsl
+Error Message: Repository not found: 0xshariq/ruby_package_installer_cli
 
 Possible Reason:
   Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
@@ -103,11 +103,11 @@ Suggested Solution:
 
 Error #7
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-01T23:52:49.416620
-Repository: http://github.com/bazaarvoice/cloudformation-ruby-dsl
-Ecosystems: Ruby
+Timestamp: 2025-12-15T20:50:35.227494
+Repository: https://github.com/rundocs/jekyll-rtd-theme
+Ecosystems: Go, Ruby
 Error Type: NOT_FOUND
-Error Message: Repository not found: bazaarvoice/cloudformation-ruby-dsl
+Error Message: Repository not found: rundocs/jekyll-rtd-theme
 
 Possible Reason:
   Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.

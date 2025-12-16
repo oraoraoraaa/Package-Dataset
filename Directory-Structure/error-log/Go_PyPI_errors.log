@@ -1,77 +1,13 @@
 ================================================================================
 Error Log for Go_PyPI
 ================================================================================
-Total Errors: 15
-Generated: 2025-12-02 06:39:38
+Total Errors: 27
+Generated: 2025-12-16 08:24:11
 ================================================================================
 
 Error #1
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T01:33:35.723504
-Repository: https://github.com/psauerborn/hermes
-Ecosystems: Go
-Error Type: NOT_FOUND
-Error Message: Repository not found: psauerborn/hermes
-
-Possible Reason:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
-
-Suggested Solution:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
-
-================================================================================
-
-Error #2
---------------------------------------------------------------------------------
-Timestamp: 2025-12-02T01:33:36.001872
-Repository: https://github.com/PSauerborn/hermes
-Ecosystems: PyPI
-Error Type: NOT_FOUND
-Error Message: Repository not found: PSauerborn/hermes
-
-Possible Reason:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
-
-Suggested Solution:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
-
-================================================================================
-
-Error #3
---------------------------------------------------------------------------------
-Timestamp: 2025-12-02T01:42:16.333863
-Repository: https://github.com/allenai/beaker
-Ecosystems: Go, PyPI
-Error Type: NOT_FOUND
-Error Message: Repository not found: allenai/beaker
-
-Possible Reason:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
-
-Suggested Solution:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
-
-================================================================================
-
-Error #4
---------------------------------------------------------------------------------
-Timestamp: 2025-12-02T01:48:40.446392
-Repository: https://github.com/forensicanalysis/pyforensicstore
-Ecosystems: Go, PyPI
-Error Type: NOT_FOUND
-Error Message: Repository not found: forensicanalysis/pyforensicstore
-
-Possible Reason:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
-
-Suggested Solution:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
-
-================================================================================
-
-Error #5
---------------------------------------------------------------------------------
-Timestamp: 2025-12-02T01:49:27.089551
+Timestamp: 2025-12-15T23:46:18.311031
 Repository: https://github.com/pinnaculum/galacteek
 Ecosystems: Go, PyPI
 Error Type: NOT_FOUND
@@ -85,13 +21,13 @@ Suggested Solution:
 
 ================================================================================
 
-Error #6
+Error #2
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:06:09.270878
-Repository: https://github.com/shoprunner/jupyter-notify
-Ecosystems: Go, PyPI
+Timestamp: 2025-12-16T00:07:11.934328
+Repository: https://github.com/pywaves/pywaves
+Ecosystems: Go
 Error Type: NOT_FOUND
-Error Message: Repository not found: shoprunner/jupyter-notify
+Error Message: Repository not found: pywaves/pywaves
 
 Possible Reason:
   Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
@@ -101,9 +37,41 @@ Suggested Solution:
 
 ================================================================================
 
-Error #7
+Error #3
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:13:42.515092
+Timestamp: 2025-12-16T00:07:12.326251
+Repository: http://github.com/pywaves/pywaves
+Ecosystems: PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: pywaves/pywaves
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #4
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T00:11:20.976866
+Repository: https://github.com/monkeylearn/monkeylearn-python
+Ecosystems: Go, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: monkeylearn/monkeylearn-python
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #5
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T00:11:53.986185
 Repository: https://github.com/ken-morel/shellsy
 Ecosystems: Go
 Error Type: NOT_FOUND
@@ -117,9 +85,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #8
+Error #6
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:13:42.800956
+Timestamp: 2025-12-16T00:11:54.288982
 Repository: https://github.com/ken-morel/shellsy/
 Ecosystems: PyPI
 Error Type: NOT_FOUND
@@ -133,89 +101,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #9
+Error #7
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:18:19.490463
-Repository: https://github.com/machinexa2/nemesis
-Ecosystems: Go
-Error Type: NOT_FOUND
-Error Message: Repository not found: machinexa2/nemesis
-
-Possible Reason:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
-
-Suggested Solution:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
-
-================================================================================
-
-Error #10
---------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:18:19.772584
-Repository: https://github.com/machinexa2/Nemesis
-Ecosystems: PyPI
-Error Type: NOT_FOUND
-Error Message: Repository not found: machinexa2/Nemesis
-
-Possible Reason:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
-
-Suggested Solution:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
-
-================================================================================
-
-Error #11
---------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:18:40.571978
-Repository: https://github.com/cnumr/ecoindex_cli
-Ecosystems: Go, PyPI
-Error Type: NOT_FOUND
-Error Message: Repository not found: cnumr/ecoindex_cli
-
-Possible Reason:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
-
-Suggested Solution:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
-
-================================================================================
-
-Error #12
---------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:26:47.098045
-Repository: https://github.com/lunary-ai/lunary
-Ecosystems: Go
-Error Type: NOT_FOUND
-Error Message: Repository not found: lunary-ai/lunary
-
-Possible Reason:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
-
-Suggested Solution:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
-
-================================================================================
-
-Error #13
---------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:26:47.416487
-Repository: https://github.com/lunary-ai/lunary/tree/main/packages/python-sdk
-Ecosystems: PyPI
-Error Type: NOT_FOUND
-Error Message: Repository not found: lunary-ai/lunary
-
-Possible Reason:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
-
-Suggested Solution:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
-
-================================================================================
-
-Error #14
---------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:27:19.728031
+Timestamp: 2025-12-16T00:11:59.530192
 Repository: https://github.com/oloren-ai/olorenchemengine
 Ecosystems: Go
 Error Type: NOT_FOUND
@@ -229,13 +117,317 @@ Suggested Solution:
 
 ================================================================================
 
-Error #15
+Error #8
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:27:19.999677
+Timestamp: 2025-12-16T00:11:59.841314
 Repository: https://github.com/Oloren-AI/olorenchemengine
 Ecosystems: PyPI
 Error Type: NOT_FOUND
 Error Message: Repository not found: Oloren-AI/olorenchemengine
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #9
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T00:14:29.073162
+Repository: https://github.com/tomquirk/linkedin-api
+Ecosystems: Go, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: tomquirk/linkedin-api
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #10
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T00:33:15.911037
+Repository: https://github.com/ru5j4r0/pulumi-prefect
+Ecosystems: Go, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: ru5j4r0/pulumi-prefect
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #11
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T00:37:31.074100
+Repository: https://github.com/openclimatedata/pyhector
+Ecosystems: Go, PyPI
+Error Type: TREE_ERROR
+Error Message: Error getting tree: HTTP 502
+
+Possible Reason:
+  The repository tree may be too large or the default branch may be empty. Try cloning the repository manually to inspect its structure.
+
+Suggested Solution:
+  The repository tree may be too large or the default branch may be empty. Try cloning the repository manually to inspect its structure.
+
+================================================================================
+
+Error #12
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T00:38:00.373218
+Repository: https://github.com/loonghao/webhook_bridge
+Ecosystems: Go, PyPI
+Error Type: API_ERROR
+Error Message: Error getting repo info: HTTP 502
+
+Possible Reason:
+  Check your internet connection and GitHub API status. If the problem persists, the repository may have issues or GitHub API may be down.
+
+Suggested Solution:
+  Check your internet connection and GitHub API status. If the problem persists, the repository may have issues or GitHub API may be down.
+
+================================================================================
+
+Error #13
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T00:39:44.620513
+Repository: https://github.com/idiap/coqui-ai-tts
+Ecosystems: Go
+Error Type: TREE_ERROR
+Error Message: Error getting tree: HTTP 502
+
+Possible Reason:
+  The repository tree may be too large or the default branch may be empty. Try cloning the repository manually to inspect its structure.
+
+Suggested Solution:
+  The repository tree may be too large or the default branch may be empty. Try cloning the repository manually to inspect its structure.
+
+================================================================================
+
+Error #14
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T00:41:40.093589
+Repository: https://github.com/futzu/bitn
+Ecosystems: Go, PyPI
+Error Type: TREE_ERROR
+Error Message: Error getting tree: HTTP 404
+
+Possible Reason:
+  The repository tree may be too large or the default branch may be empty. Try cloning the repository manually to inspect its structure.
+
+Suggested Solution:
+  The repository tree may be too large or the default branch may be empty. Try cloning the repository manually to inspect its structure.
+
+================================================================================
+
+Error #15
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T00:44:33.294599
+Repository: https://github.com/kuangdd/ttskit
+Ecosystems: Go
+Error Type: NOT_FOUND
+Error Message: Repository not found: kuangdd/ttskit
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #16
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T00:44:33.602436
+Repository: https://github.com/KuangDD/ttskit
+Ecosystems: PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: KuangDD/ttskit
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #17
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T00:58:22.470496
+Repository: https://github.com/enckse/pyxstitch
+Ecosystems: Go, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: enckse/pyxstitch
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #18
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T01:00:48.104948
+Repository: https://github.com/fluxcapacitor/pipeline
+Ecosystems: Go
+Error Type: NOT_FOUND
+Error Message: Repository not found: fluxcapacitor/pipeline
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #19
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T01:00:48.514506
+Repository: https://github.com/fluxcapacitor/pipeline/cli
+Ecosystems: PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: fluxcapacitor/pipeline
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #20
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T01:05:27.228882
+Repository: https://github.com/arnebachmann/sos
+Ecosystems: Go
+Error Type: NOT_FOUND
+Error Message: Repository not found: arnebachmann/sos
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #21
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T01:05:27.517073
+Repository: http://github.com/ArneBachmann/sos
+Ecosystems: PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: ArneBachmann/sos
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #22
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T01:07:40.472850
+Repository: https://github.com/klausman/lib_users
+Ecosystems: Go, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: klausman/lib_users
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #23
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T01:16:25.835478
+Repository: https://github.com/divanvisagie/new
+Ecosystems: Go, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: divanvisagie/new
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #24
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T01:17:07.596433
+Repository: https://github.com/jackcvr/tcpw
+Ecosystems: Go, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: jackcvr/tcpw
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #25
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T01:19:08.728563
+Repository: https://github.com/cnumr/ecoindex_cli
+Ecosystems: Go, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: cnumr/ecoindex_cli
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #26
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T01:26:37.117279
+Repository: https://github.com/lunary-ai/lunary
+Ecosystems: Go
+Error Type: NOT_FOUND
+Error Message: Repository not found: lunary-ai/lunary
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #27
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T01:26:37.525280
+Repository: https://github.com/lunary-ai/lunary/tree/main/packages/python-sdk
+Ecosystems: PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: lunary-ai/lunary
 
 Possible Reason:
   Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.

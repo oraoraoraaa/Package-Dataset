@@ -1,13 +1,13 @@
 ================================================================================
 Error Log for Crates_Go
 ================================================================================
-Total Errors: 9
-Generated: 2025-12-02 06:39:38
+Total Errors: 16
+Generated: 2025-12-16 08:24:11
 ================================================================================
 
 Error #1
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:29:02.453931
+Timestamp: 2025-12-16T01:41:29.653268
 Repository: https://github.com/loopholelabs/scale-signature
 Ecosystems: Crates, Go
 Error Type: NOT_FOUND
@@ -23,7 +23,39 @@ Suggested Solution:
 
 Error #2
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:32:45.602687
+Timestamp: 2025-12-16T01:43:18.235816
+Repository: https://github.com/uncleDecart/nkv_spec
+Ecosystems: Crates
+Error Type: NOT_FOUND
+Error Message: Repository not found: uncleDecart/nkv_spec
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #3
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T01:43:18.513502
+Repository: https://github.com/uncledecart/nkv_spec
+Ecosystems: Go
+Error Type: NOT_FOUND
+Error Message: Repository not found: uncledecart/nkv_spec
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #4
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T01:48:39.614019
 Repository: https://github.com/substrate-developer-hub/substrate-node-template/
 Ecosystems: Crates
 Error Type: NOT_FOUND
@@ -37,9 +69,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #3
+Error #5
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:32:45.883396
+Timestamp: 2025-12-16T01:48:39.923566
 Repository: https://github.com/substrate-developer-hub/substrate-node-template
 Ecosystems: Go
 Error Type: NOT_FOUND
@@ -53,9 +85,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #4
+Error #6
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:32:55.397301
+Timestamp: 2025-12-16T01:49:12.994030
 Repository: https://github.com/Stridsvagn69420/Kagero
 Ecosystems: Crates
 Error Type: NOT_FOUND
@@ -69,9 +101,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #5
+Error #7
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:32:55.683446
+Timestamp: 2025-12-16T01:49:13.280124
 Repository: https://github.com/stridsvagn69420/kagero
 Ecosystems: Go
 Error Type: NOT_FOUND
@@ -85,9 +117,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #6
+Error #8
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:34:28.193399
+Timestamp: 2025-12-16T01:52:29.337988
 Repository: https://github.com/loopholelabs/scale-signature-http
 Ecosystems: Crates, Go
 Error Type: NOT_FOUND
@@ -101,45 +133,125 @@ Suggested Solution:
 
 ================================================================================
 
-Error #7
---------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:37:45.590481
-Repository: https://github.com/Interfiber/pack
-Ecosystems: Crates
-Error Type: NOT_FOUND
-Error Message: Repository not found: Interfiber/pack
-
-Possible Reason:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
-
-Suggested Solution:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
-
-================================================================================
-
-Error #8
---------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:37:45.853511
-Repository: https://github.com/interfiber/pack
-Ecosystems: Go
-Error Type: NOT_FOUND
-Error Message: Repository not found: interfiber/pack
-
-Possible Reason:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
-
-Suggested Solution:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
-
-================================================================================
-
 Error #9
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:39:24.859207
+Timestamp: 2025-12-16T01:55:19.773210
+Repository: https://github.com/CosmWasm/cosmwasm-examples
+Ecosystems: Crates
+Error Type: NOT_FOUND
+Error Message: Repository not found: CosmWasm/cosmwasm-examples
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #10
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T01:55:20.063903
+Repository: https://github.com/cosmwasm/cosmwasm-examples
+Ecosystems: Go
+Error Type: NOT_FOUND
+Error Message: Repository not found: cosmwasm/cosmwasm-examples
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #11
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T01:56:51.173886
+Repository: https://github.com/swimos/swim-rust/tree/main/api/formats/swimos_msgpack
+Ecosystems: Crates
+Error Type: NOT_FOUND
+Error Message: Repository not found: swimos/swim-rust
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #12
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T01:56:51.583597
+Repository: https://github.com/swimos/swim-rust
+Ecosystems: Go
+Error Type: NOT_FOUND
+Error Message: Repository not found: swimos/swim-rust
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #13
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T01:58:03.505727
+Repository: https://github.com/jamf/rendr
+Ecosystems: Crates, Go
+Error Type: NOT_FOUND
+Error Message: Repository not found: jamf/rendr
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #14
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T02:01:52.563209
 Repository: https://github.com/zjaco13/multi-lang-eks-blueprints-cdk
 Ecosystems: Crates, Go
 Error Type: NOT_FOUND
 Error Message: Repository not found: zjaco13/multi-lang-eks-blueprints-cdk
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #15
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T02:07:52.057557
+Repository: https://github.com/MXWXZ/skynet
+Ecosystems: Crates
+Error Type: NOT_FOUND
+Error Message: Repository not found: MXWXZ/skynet
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #16
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T02:07:52.358624
+Repository: https://github.com/mxwxz/skynet
+Ecosystems: Go
+Error Type: NOT_FOUND
+Error Message: Repository not found: mxwxz/skynet
 
 Possible Reason:
   Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.

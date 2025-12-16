@@ -1,45 +1,13 @@
 ================================================================================
 Error Log for Go_Maven
 ================================================================================
-Total Errors: 6
-Generated: 2025-12-02 06:39:38
+Total Errors: 13
+Generated: 2025-12-16 08:24:11
 ================================================================================
 
 Error #1
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T00:21:30.611561
-Repository: https://github.com/fangjinuo/easyjson
-Ecosystems: Go
-Error Type: NOT_FOUND
-Error Message: Repository not found: fangjinuo/easyjson
-
-Possible Reason:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
-
-Suggested Solution:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
-
-================================================================================
-
-Error #2
---------------------------------------------------------------------------------
-Timestamp: 2025-12-02T00:21:30.899600
-Repository: https://github.com/fangjinuo/easyjson.git
-Ecosystems: Maven
-Error Type: NOT_FOUND
-Error Message: Repository not found: fangjinuo/easyjson
-
-Possible Reason:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
-
-Suggested Solution:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
-
-================================================================================
-
-Error #3
---------------------------------------------------------------------------------
-Timestamp: 2025-12-02T00:22:59.496478
+Timestamp: 2025-12-15T21:45:36.347685
 Repository: https://github.com/keymaster65/copper2go
 Ecosystems: Go
 Error Type: NOT_FOUND
@@ -53,9 +21,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #4
+Error #2
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T00:22:59.906124
+Timestamp: 2025-12-15T21:45:36.624227
 Repository: https://github.com/Keymaster65/copper2go/
 Ecosystems: Maven
 Error Type: NOT_FOUND
@@ -69,13 +37,13 @@ Suggested Solution:
 
 ================================================================================
 
-Error #5
+Error #3
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T00:27:08.950142
-Repository: https://github.com/sciss/scalacollider
+Timestamp: 2025-12-15T21:57:46.382912
+Repository: https://github.com/groupon/sparklint
 Ecosystems: Go
 Error Type: NOT_FOUND
-Error Message: Repository not found: sciss/scalacollider
+Error Message: Repository not found: groupon/sparklint
 
 Possible Reason:
   Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
@@ -85,13 +53,157 @@ Suggested Solution:
 
 ================================================================================
 
-Error #6
+Error #4
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T00:27:09.299239
-Repository: https://github.com/Sciss/ScalaCollider
+Timestamp: 2025-12-15T21:57:46.740320
+Repository: github.com/groupon/sparklint.git
 Ecosystems: Maven
 Error Type: NOT_FOUND
-Error Message: Repository not found: Sciss/ScalaCollider
+Error Message: Repository not found: groupon/sparklint
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #5
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T22:04:22.248867
+Repository: https://github.com/guidewire/marathon-client
+Ecosystems: Go
+Error Type: TIMEOUT
+Error Message: Request timeout: HTTPSConnectionPool(host='api.github.com', port=443): Read timed out. (read timeout=10)
+
+Possible Reason:
+  The GitHub API request timed out. This may be due to network issues or a very large repository. Try again later or increase the timeout value.
+
+Suggested Solution:
+  The GitHub API request timed out. This may be due to network issues or a very large repository. Try again later or increase the timeout value.
+
+================================================================================
+
+Error #6
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T22:04:22.248932
+Repository: git@github.com:Guidewire/marathon-client.git
+Ecosystems: Go, Maven
+Error Type: PARSE_ERROR
+Error Message: Could not parse GitHub URL: git@github.com:Guidewire/marathon-client.git
+
+Possible Reason:
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
+
+Suggested Solution:
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
+
+================================================================================
+
+Error #7
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T22:06:00.775199
+Repository: https://github.com/d-tarasov/android-intents
+Ecosystems: Go, Maven
+Error Type: NOT_FOUND
+Error Message: Repository not found: d-tarasov/android-intents
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #8
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T22:06:08.972421
+Repository: https://github.com/blazecss/blaze
+Ecosystems: Go
+Error Type: TREE_ERROR
+Error Message: Error getting tree: HTTP 409
+
+Possible Reason:
+  The repository tree may be too large or the default branch may be empty. Try cloning the repository manually to inspect its structure.
+
+Suggested Solution:
+  The repository tree may be too large or the default branch may be empty. Try cloning the repository manually to inspect its structure.
+
+================================================================================
+
+Error #9
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T22:06:10.198478
+Repository: git+https://github.com/BlazeCSS/blaze
+Ecosystems: Maven
+Error Type: TREE_ERROR
+Error Message: Error getting tree: HTTP 409
+
+Possible Reason:
+  The repository tree may be too large or the default branch may be empty. Try cloning the repository manually to inspect its structure.
+
+Suggested Solution:
+  The repository tree may be too large or the default branch may be empty. Try cloning the repository manually to inspect its structure.
+
+================================================================================
+
+Error #10
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T22:26:54.024780
+Repository: https://github.com/net-a-porter/scala-uri
+Ecosystems: Go
+Error Type: NOT_FOUND
+Error Message: Repository not found: net-a-porter/scala-uri
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #11
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T22:26:54.026447
+Repository: git@github.com:net-a-porter/scala-uri.git
+Ecosystems: Go, Maven
+Error Type: PARSE_ERROR
+Error Message: Could not parse GitHub URL: git@github.com:net-a-porter/scala-uri.git
+
+Possible Reason:
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
+
+Suggested Solution:
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
+
+================================================================================
+
+Error #12
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T22:29:42.418077
+Repository: https://github.com/hivemq/hivemq-mqtt-client
+Ecosystems: Go, Maven
+Error Type: API_ERROR
+Error Message: Error getting repo info: HTTP 502
+
+Possible Reason:
+  Check your internet connection and GitHub API status. If the problem persists, the repository may have issues or GitHub API may be down.
+
+Suggested Solution:
+  Check your internet connection and GitHub API status. If the problem persists, the repository may have issues or GitHub API may be down.
+
+================================================================================
+
+Error #13
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T22:34:00.482486
+Repository: https://github.com/beingcoder/openapi-generator
+Ecosystems: Go, Maven
+Error Type: NOT_FOUND
+Error Message: Repository not found: beingcoder/openapi-generator
 
 Possible Reason:
   Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.

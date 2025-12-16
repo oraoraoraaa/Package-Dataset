@@ -1,13 +1,61 @@
 ================================================================================
 Error Log for Go_PHP
 ================================================================================
-Total Errors: 1
-Generated: 2025-12-02 06:39:38
+Total Errors: 4
+Generated: 2025-12-16 08:24:11
 ================================================================================
 
 Error #1
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-01T23:58:30.518097
+Timestamp: 2025-12-15T21:26:17.106777
+Repository: https://github.com/diversifiedtech/omnipay-nuvei
+Ecosystems: Go, PHP
+Error Type: NOT_FOUND
+Error Message: Repository not found: diversifiedtech/omnipay-nuvei
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #2
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T21:28:05.950133
+Repository: https://github.com/nicklaswallgren/protobuf
+Ecosystems: Go
+Error Type: TREE_ERROR
+Error Message: Error getting tree: HTTP 502
+
+Possible Reason:
+  The repository tree may be too large or the default branch may be empty. Try cloning the repository manually to inspect its structure.
+
+Suggested Solution:
+  The repository tree may be too large or the default branch may be empty. Try cloning the repository manually to inspect its structure.
+
+================================================================================
+
+Error #3
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T21:28:11.589516
+Repository: https://github.com/shuchkin/simplexls
+Ecosystems: Go, PHP
+Error Type: API_ERROR
+Error Message: Error getting repo info: HTTP 502
+
+Possible Reason:
+  Check your internet connection and GitHub API status. If the problem persists, the repository may have issues or GitHub API may be down.
+
+Suggested Solution:
+  Check your internet connection and GitHub API status. If the problem persists, the repository may have issues or GitHub API may be down.
+
+================================================================================
+
+Error #4
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T21:38:25.716311
 Repository: https://github.com/crgeary/pagespeed
 Ecosystems: Go, PHP
 Error Type: NOT_FOUND

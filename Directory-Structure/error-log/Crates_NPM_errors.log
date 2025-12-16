@@ -1,13 +1,13 @@
 ================================================================================
 Error Log for Crates_NPM
 ================================================================================
-Total Errors: 101
-Generated: 2025-12-02 06:39:38
+Total Errors: 104
+Generated: 2025-12-16 08:24:11
 ================================================================================
 
 Error #1
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:48:12.301830
+Timestamp: 2025-12-16T02:16:35.036312
 Repository: https://github.com/ShunsukeHayashi/Miyabi
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -23,7 +23,7 @@ Suggested Solution:
 
 Error #2
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:48:17.927363
+Timestamp: 2025-12-16T02:16:39.970685
 Repository: https://github.com/nxpkg/mainstay
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -39,7 +39,7 @@ Suggested Solution:
 
 Error #3
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:48:26.662256
+Timestamp: 2025-12-16T02:16:47.716796
 Repository: https://github.com/tree-sitter-grammars/tree-sitter-epics-db
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -55,7 +55,7 @@ Suggested Solution:
 
 Error #4
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:48:33.700998
+Timestamp: 2025-12-16T02:16:53.044601
 Repository: https://github.com/barrybtw/trash-cli/
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -71,7 +71,7 @@ Suggested Solution:
 
 Error #5
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:49:03.611468
+Timestamp: 2025-12-16T02:17:17.710638
 Repository: https://github.com/agentic-catalog/agentic-payments
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -87,7 +87,7 @@ Suggested Solution:
 
 Error #6
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:49:05.539545
+Timestamp: 2025-12-16T02:17:19.769383
 Repository: https://github.com/bitcoin/libbitcoinpqc
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -103,7 +103,7 @@ Suggested Solution:
 
 Error #7
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:49:46.120809
+Timestamp: 2025-12-16T02:17:54.301933
 Repository: https://github.com/xty/watchcraft
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -119,7 +119,7 @@ Suggested Solution:
 
 Error #8
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:49:49.206440
+Timestamp: 2025-12-16T02:17:57.796238
 Repository: https://github.com/orca-so/riptide
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -135,7 +135,7 @@ Suggested Solution:
 
 Error #9
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:52:02.086331
+Timestamp: 2025-12-16T02:19:48.736790
 Repository: https://github.com/LiterateInk/Utilities
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -151,7 +151,7 @@ Suggested Solution:
 
 Error #10
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:52:29.235493
+Timestamp: 2025-12-16T02:20:13.188182
 Repository: https://github.com/ysk8hori/hello-wasm
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -167,7 +167,7 @@ Suggested Solution:
 
 Error #11
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:52:42.151780
+Timestamp: 2025-12-16T02:20:23.519484
 Repository: https://github.com/your-org/indian-rummy-core
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -183,7 +183,7 @@ Suggested Solution:
 
 Error #12
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:53:17.766212
+Timestamp: 2025-12-16T02:20:58.977938
 Repository: https://github.com/deplug/deplug
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -199,7 +199,7 @@ Suggested Solution:
 
 Error #13
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:53:46.009793
+Timestamp: 2025-12-16T02:21:24.382825
 Repository: https://github.com/metaplex-foundation/mpl-vault
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -215,7 +215,7 @@ Suggested Solution:
 
 Error #14
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:53:47.566272
+Timestamp: 2025-12-16T02:21:25.986979
 Repository: https://github.com/ahmadkhaefi/fileidentifier
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -231,7 +231,7 @@ Suggested Solution:
 
 Error #15
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:53:50.321287
+Timestamp: 2025-12-16T02:21:28.978779
 Repository: https://github.com/lib-q/lib-q
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -247,7 +247,7 @@ Suggested Solution:
 
 Error #16
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:54:19.621272
+Timestamp: 2025-12-16T02:21:55.884991
 Repository: https://github.com/alwinw/gguppy
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -263,7 +263,7 @@ Suggested Solution:
 
 Error #17
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:54:29.350336
+Timestamp: 2025-12-16T02:22:05.325758
 Repository: https://github.com/LPGhatguy/undulate
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -279,7 +279,7 @@ Suggested Solution:
 
 Error #18
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:54:30.080493
+Timestamp: 2025-12-16T02:22:05.752164
 Repository: https://github.com/ADAO-Summon/summon-client-sdk
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -295,7 +295,7 @@ Suggested Solution:
 
 Error #19
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:54:41.181734
+Timestamp: 2025-12-16T02:22:17.223099
 Repository: https://github.com/opla/tokin
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -311,7 +311,7 @@ Suggested Solution:
 
 Error #20
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:54:53.833455
+Timestamp: 2025-12-16T02:22:28.997397
 Repository: https://github.com/entropyxyz/entropy-core
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -327,7 +327,7 @@ Suggested Solution:
 
 Error #21
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:55:11.551604
+Timestamp: 2025-12-16T02:22:44.534699
 Repository: https://github.com/xamogh/safe-urqlcodgen-mutations
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -343,7 +343,7 @@ Suggested Solution:
 
 Error #22
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:55:16.775588
+Timestamp: 2025-12-16T02:22:50.509605
 Repository: https://github.com/mrgnlabs/marginfi-sdk/tree/main/rust/marginfi-cpi
 Ecosystems: Crates
 Error Type: NOT_FOUND
@@ -359,7 +359,7 @@ Suggested Solution:
 
 Error #23
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:55:17.084667
+Timestamp: 2025-12-16T02:22:50.807851
 Repository: https://github.com/mrgnlabs/marginfi-sdk
 Ecosystems: NPM
 Error Type: NOT_FOUND
@@ -375,7 +375,7 @@ Suggested Solution:
 
 Error #24
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:55:25.890535
+Timestamp: 2025-12-16T02:22:58.289954
 Repository: https://github.com/Wandalen/wMath/tree/master/module/rust/wmath
 Ecosystems: Crates
 Error Type: NOT_FOUND
@@ -391,7 +391,7 @@ Suggested Solution:
 
 Error #25
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:55:26.175047
+Timestamp: 2025-12-16T02:22:58.590063
 Repository: https ://github.com/Wandalen/wMath
 Ecosystems: NPM
 Error Type: NOT_FOUND
@@ -407,7 +407,7 @@ Suggested Solution:
 
 Error #26
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:56:03.853562
+Timestamp: 2025-12-16T02:23:31.138093
 Repository: https://github.com/westhide/swc-plugin-vue-jsx.git
 Ecosystems: Crates
 Error Type: NOT_FOUND
@@ -423,7 +423,7 @@ Suggested Solution:
 
 Error #27
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:56:04.122953
+Timestamp: 2025-12-16T02:23:31.419247
 Repository: https://github.com/westhide/swc-plugin-vue-jsx
 Ecosystems: NPM
 Error Type: NOT_FOUND
@@ -439,7 +439,7 @@ Suggested Solution:
 
 Error #28
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:56:15.357632
+Timestamp: 2025-12-16T02:23:41.780017
 Repository: https://github.com/faldez/tanoshi
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -455,7 +455,7 @@ Suggested Solution:
 
 Error #29
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:56:34.276040
+Timestamp: 2025-12-16T02:23:56.657985
 Repository: https://github.com/dawsonfi/caws
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -471,7 +471,7 @@ Suggested Solution:
 
 Error #30
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:56:34.591409
+Timestamp: 2025-12-16T02:23:56.966101
 Repository: https://github.com/ruvnet/neural-trader
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -487,7 +487,7 @@ Suggested Solution:
 
 Error #31
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:56:44.745015
+Timestamp: 2025-12-16T02:24:04.949024
 Repository: https://github.com/Trustblock-Inc/trustblock-cli
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -503,7 +503,7 @@ Suggested Solution:
 
 Error #32
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:56:57.715488
+Timestamp: 2025-12-16T02:24:17.022428
 Repository: https://github.com/elgrhy/lgx-light.git
 Ecosystems: Crates
 Error Type: NOT_FOUND
@@ -519,7 +519,7 @@ Suggested Solution:
 
 Error #33
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:56:58.357926
+Timestamp: 2025-12-16T02:24:17.319388
 Repository: https://github.com/elgrhy/lgx-light
 Ecosystems: NPM
 Error Type: NOT_FOUND
@@ -535,7 +535,7 @@ Suggested Solution:
 
 Error #34
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:57:10.648179
+Timestamp: 2025-12-16T02:24:28.808817
 Repository: https://github.com/fauna-labs/fql-parser
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -551,7 +551,7 @@ Suggested Solution:
 
 Error #35
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:57:42.400511
+Timestamp: 2025-12-16T02:24:58.941650
 Repository: https://github.com/nathanbabcock/hypetrigger
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -567,7 +567,7 @@ Suggested Solution:
 
 Error #36
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:58:07.487307
+Timestamp: 2025-12-16T02:25:21.124225
 Repository: https://github.com/gasp-xyz/gasp-swap
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -583,7 +583,7 @@ Suggested Solution:
 
 Error #37
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:58:10.653407
+Timestamp: 2025-12-16T02:25:24.414102
 Repository: https://github.com/switchboard-xyz/sbv3
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -599,7 +599,7 @@ Suggested Solution:
 
 Error #38
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:58:11.984640
+Timestamp: 2025-12-16T02:25:25.946582
 Repository: https://github.com/rate-technology/rillrate-js
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -615,7 +615,7 @@ Suggested Solution:
 
 Error #39
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:59:02.874564
+Timestamp: 2025-12-16T02:26:16.024453
 Repository: https://github.com/versa-protocol/semval
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -631,7 +631,7 @@ Suggested Solution:
 
 Error #40
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:59:09.412419
+Timestamp: 2025-12-16T02:26:23.406687
 Repository: https://github.com/anru/act
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -647,7 +647,7 @@ Suggested Solution:
 
 Error #41
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T02:59:11.056925
+Timestamp: 2025-12-16T02:26:24.581893
 Repository: https://github.com/tananetwork/tana-event-bus
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -663,7 +663,7 @@ Suggested Solution:
 
 Error #42
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:00:16.504960
+Timestamp: 2025-12-16T02:27:22.172864
 Repository: https://github.com/metaplex-foundation/mpl-gavel
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -679,7 +679,7 @@ Suggested Solution:
 
 Error #43
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:00:32.274794
+Timestamp: 2025-12-16T02:27:35.380352
 Repository: https://github.com/uora/uora
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -695,7 +695,7 @@ Suggested Solution:
 
 Error #44
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:00:34.317454
+Timestamp: 2025-12-16T02:27:37.639618
 Repository: https://github.com/knot0-com/knot0-main
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -711,7 +711,7 @@ Suggested Solution:
 
 Error #45
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:00:46.008642
+Timestamp: 2025-12-16T02:27:49.890600
 Repository: https://github.com/SubzeroLabs/rialo
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -727,7 +727,7 @@ Suggested Solution:
 
 Error #46
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:01:10.061009
+Timestamp: 2025-12-16T02:28:07.583808
 Repository: https://github.com/cardinal-labs/cardinal-configs/
 Ecosystems: Crates
 Error Type: NOT_FOUND
@@ -743,7 +743,7 @@ Suggested Solution:
 
 Error #47
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:01:10.469767
+Timestamp: 2025-12-16T02:28:07.951225
 Repository: https://github.com/cardinal-labs/cardinal-configs
 Ecosystems: NPM
 Error Type: NOT_FOUND
@@ -759,7 +759,7 @@ Suggested Solution:
 
 Error #48
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:01:22.752590
+Timestamp: 2025-12-16T02:28:17.777687
 Repository: https://github.com/telcoin-association/tnipv
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -775,7 +775,7 @@ Suggested Solution:
 
 Error #49
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:01:33.670036
+Timestamp: 2025-12-16T02:28:25.440734
 Repository: https://github.com/dote27/tauri-plugin-broadcast.git
 Ecosystems: Crates
 Error Type: NOT_FOUND
@@ -791,7 +791,7 @@ Suggested Solution:
 
 Error #50
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:01:33.949558
+Timestamp: 2025-12-16T02:28:25.718957
 Repository: https://github.com/dote27/tauri-plugin-broadcast
 Ecosystems: NPM
 Error Type: NOT_FOUND
@@ -807,7 +807,7 @@ Suggested Solution:
 
 Error #51
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:01:50.899903
+Timestamp: 2025-12-16T02:28:44.903861
 Repository: https://github.com/metaplex-foundation/mpl-waffle
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -823,7 +823,7 @@ Suggested Solution:
 
 Error #52
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:01:55.395848
+Timestamp: 2025-12-16T02:28:49.731090
 Repository: https://github.com/aws/fully-qualified-names
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -839,7 +839,7 @@ Suggested Solution:
 
 Error #53
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:01:55.665344
+Timestamp: 2025-12-16T02:28:50.046164
 Repository: https://github.com/knowthat-ai/reputation-engine
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -855,7 +855,7 @@ Suggested Solution:
 
 Error #54
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:02:02.994983
+Timestamp: 2025-12-16T02:28:59.562662
 Repository: https://github.com/cardinal-labs/cardinal-scanner/tree/main/programs/cardinal-scanner
 Ecosystems: Crates
 Error Type: NOT_FOUND
@@ -871,7 +871,7 @@ Suggested Solution:
 
 Error #55
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:02:03.310863
+Timestamp: 2025-12-16T02:28:59.972086
 Repository: https://github.com/cardinal-labs/cardinal-scanner
 Ecosystems: NPM
 Error Type: NOT_FOUND
@@ -887,7 +887,7 @@ Suggested Solution:
 
 Error #56
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:02:18.230005
+Timestamp: 2025-12-16T02:29:08.471958
 Repository: https://github.com/metaplex-foundation/mpl-barista
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -903,7 +903,7 @@ Suggested Solution:
 
 Error #57
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:02:43.873406
+Timestamp: 2025-12-16T02:29:32.238745
 Repository: https://github.com/quasipaa/QStorage
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -919,7 +919,7 @@ Suggested Solution:
 
 Error #58
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:02:49.760369
+Timestamp: 2025-12-16T02:29:38.372320
 Repository: https://github.com/fluencelabs/fluence/tree/master/sdk/rust
 Ecosystems: Crates
 Error Type: NOT_FOUND
@@ -935,7 +935,7 @@ Suggested Solution:
 
 Error #59
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:02:50.059970
+Timestamp: 2025-12-16T02:29:38.659857
 Repository: https://github.com/fluencelabs/fluence
 Ecosystems: NPM
 Error Type: NOT_FOUND
@@ -951,7 +951,7 @@ Suggested Solution:
 
 Error #60
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:03:11.068169
+Timestamp: 2025-12-16T02:30:00.697063
 Repository: https://github.com/genauai/kernel
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -967,7 +967,7 @@ Suggested Solution:
 
 Error #61
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:03:21.205572
+Timestamp: 2025-12-16T02:30:11.295187
 Repository: https://github.com/nftt-studio/nftmart-telemetry
 Ecosystems: Crates
 Error Type: NOT_FOUND
@@ -983,7 +983,7 @@ Suggested Solution:
 
 Error #62
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:03:21.514972
+Timestamp: 2025-12-16T02:30:11.605830
 Repository: https://github.com/NFTT-studio/nftmart-telemetry
 Ecosystems: NPM
 Error Type: NOT_FOUND
@@ -999,7 +999,7 @@ Suggested Solution:
 
 Error #63
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:03:44.928880
+Timestamp: 2025-12-16T02:30:34.080303
 Repository: https://github.com/zeit/now-builders
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -1015,7 +1015,39 @@ Suggested Solution:
 
 Error #64
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:04:50.674757
+Timestamp: 2025-12-16T02:31:07.147863
+Repository: https://github.com/patrickgunnar/nenyr
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: patrickgunnar/nenyr
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #65
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T02:31:07.447943
+Repository: https://github.com/patrickgunnar/galadrielcss
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: patrickgunnar/galadrielcss
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #66
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T02:31:31.701506
 Repository: https://github.com/dyz1990/sevenz-rust
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -1029,9 +1061,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #65
+Error #67
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:04:52.896536
+Timestamp: 2025-12-16T02:31:34.307628
 Repository: https://github.com/tdxvolt/tdxvolt-rs
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -1045,9 +1077,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #66
+Error #68
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:05:59.388225
+Timestamp: 2025-12-16T02:32:33.117891
 Repository: https://github.com/patrickquinn/tauri-plugin-apple-music-kit
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -1061,9 +1093,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #67
+Error #69
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:06:00.950457
+Timestamp: 2025-12-16T02:32:34.403708
 Repository: https://github.com/crabnebula-dev/tauri-plugin-ota-updater
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -1077,9 +1109,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #68
+Error #70
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:06:01.264356
+Timestamp: 2025-12-16T02:32:34.970184
 Repository: https://github.com/tree-sitter/tree-sitter-tmux
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -1093,9 +1125,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #69
+Error #71
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:06:02.786005
+Timestamp: 2025-12-16T02:32:35.255298
 Repository: https://github.com/tree-sitter/tree-sitter-zathurarc
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -1109,9 +1141,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #70
+Error #72
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:06:07.463117
+Timestamp: 2025-12-16T02:32:38.433709
 Repository: https://github.com/tree-sitter/tree-sitter-hlsplaylist
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -1125,9 +1157,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #71
+Error #73
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:06:10.166498
+Timestamp: 2025-12-16T02:32:40.344274
 Repository: https://github.com/tree-sitter/tree-sitter-muttrc
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -1141,9 +1173,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #72
+Error #74
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:06:57.682734
+Timestamp: 2025-12-16T02:33:19.153672
 Repository: https://github.com/marraph/iberis
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -1157,9 +1189,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #73
+Error #75
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:07:32.291771
+Timestamp: 2025-12-16T02:33:51.813934
 Repository: https://github.com/tensor-foundation/price-lock
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -1173,9 +1205,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #74
+Error #76
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:07:41.919747
+Timestamp: 2025-12-16T02:33:58.082372
 Repository: https://github.com/haqq-network/indexer-proto
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -1189,9 +1221,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #75
+Error #77
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:07:57.580522
+Timestamp: 2025-12-16T02:34:09.506871
 Repository: https://github.com/andrespirela/cardinal
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -1205,9 +1237,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #76
+Error #78
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:08:01.078814
+Timestamp: 2025-12-16T02:34:13.114257
 Repository: https://github.com/samduchaine/kindly-guard
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -1221,9 +1253,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #77
+Error #79
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:08:08.131871
+Timestamp: 2025-12-16T02:34:19.715423
 Repository: https://github.com/sutterhill/agentdb
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -1237,9 +1269,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #78
+Error #80
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:08:41.433623
+Timestamp: 2025-12-16T02:34:49.784419
 Repository: https://github.com/YosakuraTohu/kitten-anno-lib
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -1253,9 +1285,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #79
+Error #81
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:08:46.516385
+Timestamp: 2025-12-16T02:34:54.974825
 Repository: https://github.com/rune-ecosystem/forge
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -1269,9 +1301,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #80
+Error #82
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:09:13.328692
+Timestamp: 2025-12-16T02:35:19.670316
 Repository: https://github.com/Maverick0351a/odin_core
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -1285,9 +1317,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #81
+Error #83
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:10:00.260060
+Timestamp: 2025-12-16T02:36:03.862211
 Repository: https://github.com/pacmjs/neatify
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -1301,9 +1333,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #82
+Error #84
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:10:33.652752
+Timestamp: 2025-12-16T02:36:33.713062
 Repository: https://github.com/Synopkg/synopkg/tree/rust/main
 Ecosystems: Crates
 Error Type: NOT_FOUND
@@ -1317,9 +1349,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #83
+Error #85
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:10:33.953620
+Timestamp: 2025-12-16T02:36:34.013592
 Repository: https://github.com/synopkg/synopkg
 Ecosystems: NPM
 Error Type: NOT_FOUND
@@ -1333,9 +1365,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #84
+Error #86
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:10:35.590850
+Timestamp: 2025-12-16T02:36:35.401157
 Repository: https://github.com/ABHIRAM-CREATOR06/Acess1
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -1349,9 +1381,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #85
+Error #87
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:11:07.740442
+Timestamp: 2025-12-16T02:37:05.627234
 Repository: https://github.com/milesfuller/urban-nest
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -1365,9 +1397,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #86
+Error #88
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:11:49.726540
+Timestamp: 2025-12-16T02:37:45.367544
 Repository: https://github.com/metaplex-foundation/mpl-distro
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -1381,9 +1413,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #87
+Error #89
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:12:02.946211
+Timestamp: 2025-12-16T02:37:58.898843
 Repository: https://github.com/2221ch/tauri-plugin-sumup
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -1397,9 +1429,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #88
+Error #90
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:12:04.613022
+Timestamp: 2025-12-16T02:37:59.964701
 Repository: https://github.com/your-org/directory-scanner-sdk
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -1413,9 +1445,25 @@ Suggested Solution:
 
 ================================================================================
 
-Error #89
+Error #91
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:12:10.510516
+Timestamp: 2025-12-16T02:38:00.279851
+Repository: https://github.com/magicblock-labs/ephemeral-validator
+Ecosystems: Crates, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: magicblock-labs/ephemeral-validator
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #92
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T02:38:03.632961
 Repository: https://github.com/your-username/tauri-plugin-app-control
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -1429,9 +1477,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #90
+Error #93
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:12:20.927966
+Timestamp: 2025-12-16T02:38:13.460523
 Repository: https://github.com/Wandalen/willbe/tree/master/module/tree_fmt
 Ecosystems: Crates
 Error Type: NOT_FOUND
@@ -1445,9 +1493,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #91
+Error #94
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:12:21.220307
+Timestamp: 2025-12-16T02:38:13.781182
 Repository: https://github.com/Wandalen/willbe
 Ecosystems: NPM
 Error Type: NOT_FOUND
@@ -1461,9 +1509,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #92
+Error #95
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:12:37.622924
+Timestamp: 2025-12-16T02:38:28.904645
 Repository: https://github.com/bench-tools/bench-sdk
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -1477,9 +1525,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #93
+Error #96
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:12:37.912014
+Timestamp: 2025-12-16T02:38:29.314362
 Repository: https://github.com/bench-tools/bench-ai
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -1493,9 +1541,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #94
+Error #97
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:12:47.992371
+Timestamp: 2025-12-16T02:38:38.840011
 Repository: https://github.com/valiant-trade/vortex
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -1509,9 +1557,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #95
+Error #98
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:13:01.993185
+Timestamp: 2025-12-16T02:38:53.815690
 Repository: https://github.com/temporal-neural-solver/tns
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -1525,9 +1573,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #96
+Error #99
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:13:11.736048
+Timestamp: 2025-12-16T02:39:02.829676
 Repository: https://github.com/ruvnet/goalie
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -1541,9 +1589,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #97
+Error #100
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:13:14.309310
+Timestamp: 2025-12-16T02:39:04.874435
 Repository: https://github.com/orca-so/wavebreak
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -1557,9 +1605,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #98
+Error #101
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:13:22.523283
+Timestamp: 2025-12-16T02:39:10.493045
 Repository: https://github.com/entrepeneur4lyf/reactive-tui
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND
@@ -1573,9 +1621,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #99
+Error #102
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:13:31.098673
+Timestamp: 2025-12-16T02:39:18.588874
 Repository: https://github.com/FL03/pzzld-js.git
 Ecosystems: Crates
 Error Type: NOT_FOUND
@@ -1589,9 +1637,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #100
+Error #103
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:13:31.393431
+Timestamp: 2025-12-16T02:39:18.925467
 Repository: https://github.com/FL03/pzzld-js
 Ecosystems: NPM
 Error Type: NOT_FOUND
@@ -1605,9 +1653,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #101
+Error #104
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:13:36.743882
+Timestamp: 2025-12-16T02:39:25.016721
 Repository: https://github.com/byrizki/json-eval-rs
 Ecosystems: Crates, NPM
 Error Type: NOT_FOUND

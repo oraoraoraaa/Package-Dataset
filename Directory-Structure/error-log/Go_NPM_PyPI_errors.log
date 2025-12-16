@@ -1,13 +1,45 @@
 ================================================================================
 Error Log for Go_NPM_PyPI
 ================================================================================
-Total Errors: 3
-Generated: 2025-12-02 06:39:38
+Total Errors: 15
+Generated: 2025-12-16 08:24:11
 ================================================================================
 
 Error #1
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T05:48:45.967345
+Timestamp: 2025-12-16T07:02:52.139225
+Repository: https://github.com/layerborn/cdk-git-tagger-aspect
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: layerborn/cdk-git-tagger-aspect
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #2
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T07:02:52.444505
+Repository: https://github.com/layerborn/cdk-git-tagger-aspect.git
+Ecosystems: PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: layerborn/cdk-git-tagger-aspect
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #3
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T07:05:11.141389
 Repository: https://github.com/cuemby/pulumi-equinix
 Ecosystems: Go, NPM, PyPI
 Error Type: NOT_FOUND
@@ -21,9 +53,73 @@ Suggested Solution:
 
 ================================================================================
 
-Error #2
+Error #4
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T05:49:24.187087
+Timestamp: 2025-12-16T07:06:51.230633
+Repository: https://github.com/layerborn/cdk-iam-policy-builder-helper-construct
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: layerborn/cdk-iam-policy-builder-helper-construct
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #5
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T07:06:51.495561
+Repository: https://github.com/layerborn/cdk-iam-policy-builder-helper-construct.git
+Ecosystems: PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: layerborn/cdk-iam-policy-builder-helper-construct
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #6
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T07:07:35.659795
+Repository: https://github.com/mbasadi/jsii-time-ago
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: mbasadi/jsii-time-ago
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #7
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T07:07:35.961998
+Repository: https://github.com/mbasadi/jsii-time-ago.git
+Ecosystems: PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: mbasadi/jsii-time-ago
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #8
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T07:07:38.539595
 Repository: https://github.com/mbasadi/jsiitestbagher
 Ecosystems: Go, NPM
 Error Type: NOT_FOUND
@@ -37,13 +133,109 @@ Suggested Solution:
 
 ================================================================================
 
-Error #3
+Error #9
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T05:49:24.494677
+Timestamp: 2025-12-16T07:07:38.853404
 Repository: https://github.com/mbasadi/jsiitestbagher.git
 Ecosystems: PyPI
 Error Type: NOT_FOUND
 Error Message: Repository not found: mbasadi/jsiitestbagher
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #10
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T07:07:50.056199
+Repository: https://github.com/oss4u/pulumi-youtrack-native
+Ecosystems: Go, NPM, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: oss4u/pulumi-youtrack-native
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #11
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T07:08:33.471430
+Repository: https://github.com/untrace-dev/untrace-sdk
+Ecosystems: Go, NPM, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: untrace-dev/untrace-sdk
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #12
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T07:08:53.699468
+Repository: https://github.com/layerborn/cdk-ami-builder-construct
+Ecosystems: Go, NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: layerborn/cdk-ami-builder-construct
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #13
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T07:08:54.330444
+Repository: https://github.com/layerborn/cdk-ami-builder-construct.git
+Ecosystems: PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: layerborn/cdk-ami-builder-construct
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #14
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T07:09:31.271021
+Repository: https://github.com/kiali/kiali-mcp-server
+Ecosystems: Go, NPM, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: kiali/kiali-mcp-server
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #15
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T07:10:53.732092
+Repository: https://github.com/cuemby/pulumi-ct
+Ecosystems: Go, NPM, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: cuemby/pulumi-ct
 
 Possible Reason:
   Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.

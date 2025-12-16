@@ -1,81 +1,81 @@
 ================================================================================
 Error Log for Maven_PyPI
 ================================================================================
-Total Errors: 13
-Generated: 2025-12-02 06:39:38
+Total Errors: 40
+Generated: 2025-12-16 08:24:11
 ================================================================================
 
 Error #1
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-01T23:19:53.873296
-Repository: https://github.com/snowflakedb/snowflake-ingest-sdk
+Timestamp: 2025-12-15T20:09:32.300454
+Repository: git@github.com:killme2008/Metamorphosis.git
 Ecosystems: Maven, PyPI
-Error Type: NOT_FOUND
-Error Message: Repository not found: snowflakedb/snowflake-ingest-sdk
+Error Type: PARSE_ERROR
+Error Message: Could not parse GitHub URL: git@github.com:killme2008/Metamorphosis.git
 
 Possible Reason:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
 
 Suggested Solution:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
 
 ================================================================================
 
 Error #2
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-01T23:20:51.963074
-Repository: https://github.com/yourusername/yourproject
+Timestamp: 2025-12-15T20:09:33.355600
+Repository: git@github.com:interedition/collatex.git
 Ecosystems: Maven, PyPI
-Error Type: NOT_FOUND
-Error Message: Repository not found: yourusername/yourproject
+Error Type: PARSE_ERROR
+Error Message: Could not parse GitHub URL: git@github.com:interedition/collatex.git
 
 Possible Reason:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
 
 Suggested Solution:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
 
 ================================================================================
 
 Error #3
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-01T23:20:55.542223
-Repository: https://github.com/aws/asset-node-proxy-agent-v6.git
+Timestamp: 2025-12-15T20:09:35.185183
+Repository: git@github.com:GoogleCloudPlatform/google-cloud-datastore.git
 Ecosystems: Maven, PyPI
-Error Type: NOT_FOUND
-Error Message: Repository not found: aws/asset-node-proxy-agent-v6
+Error Type: PARSE_ERROR
+Error Message: Could not parse GitHub URL: git@github.com:GoogleCloudPlatform/google-cloud-datastore.git
 
 Possible Reason:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
 
 Suggested Solution:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
 
 ================================================================================
 
 Error #4
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-01T23:22:08.248823
-Repository: https://github.com/danielafriyie/raccy-utils
+Timestamp: 2025-12-15T20:09:36.826222
+Repository: git@github.com:pdef/pdef-java.git
 Ecosystems: Maven, PyPI
-Error Type: NOT_FOUND
-Error Message: Repository not found: danielafriyie/raccy-utils
+Error Type: PARSE_ERROR
+Error Message: Could not parse GitHub URL: git@github.com:pdef/pdef-java.git
 
 Possible Reason:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
 
 Suggested Solution:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
 
 ================================================================================
 
 Error #5
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-01T23:22:15.000810
-Repository: https://github.com/cdklabs/cdk-pipelines-codecatalyst.git
-Ecosystems: Maven, PyPI
+Timestamp: 2025-12-15T20:09:37.095794
+Repository: http://github.com/pdef/pdef-java
+Ecosystems: PyPI
 Error Type: NOT_FOUND
-Error Message: Repository not found: cdklabs/cdk-pipelines-codecatalyst
+Error Message: Repository not found: pdef/pdef-java
 
 Possible Reason:
   Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
@@ -87,59 +87,155 @@ Suggested Solution:
 
 Error #6
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-01T23:22:16.348139
-Repository: https://github.com/xxx/xxxx/tree/master
-Ecosystems: Maven
-Error Type: NOT_FOUND
-Error Message: Repository not found: xxx/xxxx
+Timestamp: 2025-12-15T20:09:37.098791
+Repository: git@github.com:yshavit/antlr-denter.git
+Ecosystems: Maven, PyPI
+Error Type: PARSE_ERROR
+Error Message: Could not parse GitHub URL: git@github.com:yshavit/antlr-denter.git
 
 Possible Reason:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
 
 Suggested Solution:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
 
 ================================================================================
 
 Error #7
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-01T23:22:16.632257
-Repository: https://github.com/xxx/xxxx
-Ecosystems: PyPI
-Error Type: NOT_FOUND
-Error Message: Repository not found: xxx/xxxx
+Timestamp: 2025-12-15T20:09:40.694976
+Repository: scm:git:git@github.com:apache/spark.git
+Ecosystems: Maven, PyPI
+Error Type: PARSE_ERROR
+Error Message: Could not parse GitHub URL: scm:git:git@github.com:apache/spark.git
 
 Possible Reason:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
 
 Suggested Solution:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
 
 ================================================================================
 
 Error #8
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-01T23:22:27.644414
-Repository: https://github.com/th2-net/th2-grpc-books-validation.git
+Timestamp: 2025-12-15T20:09:43.187420
+Repository: git@github.com:osgeo/gdal.git
 Ecosystems: Maven, PyPI
-Error Type: NOT_FOUND
-Error Message: Repository not found: th2-net/th2-grpc-books-validation
+Error Type: PARSE_ERROR
+Error Message: Could not parse GitHub URL: git@github.com:osgeo/gdal.git
 
 Possible Reason:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
 
 Suggested Solution:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
 
 ================================================================================
 
 Error #9
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-01T23:22:29.337203
-Repository: https://github.com/blinq-io/selenium-session-manager
+Timestamp: 2025-12-15T20:09:45.046905
+Repository: git@github.com:tail-f-systems/JNC.git
+Ecosystems: Maven, PyPI
+Error Type: PARSE_ERROR
+Error Message: Could not parse GitHub URL: git@github.com:tail-f-systems/JNC.git
+
+Possible Reason:
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
+
+Suggested Solution:
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
+
+================================================================================
+
+Error #10
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T20:09:46.052007
+Repository: git@github.com:hankcs/HanLP.git
+Ecosystems: Maven, PyPI
+Error Type: PARSE_ERROR
+Error Message: Could not parse GitHub URL: git@github.com:hankcs/HanLP.git
+
+Possible Reason:
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
+
+Suggested Solution:
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
+
+================================================================================
+
+Error #11
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T20:09:47.834001
+Repository: git@github.com:rapidpro/flows.git
+Ecosystems: Maven, PyPI
+Error Type: PARSE_ERROR
+Error Message: Could not parse GitHub URL: git@github.com:rapidpro/flows.git
+
+Possible Reason:
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
+
+Suggested Solution:
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
+
+================================================================================
+
+Error #12
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T20:09:48.702369
+Repository: git@github.com:rapidpro/expressions.git
+Ecosystems: Maven, PyPI
+Error Type: PARSE_ERROR
+Error Message: Could not parse GitHub URL: git@github.com:rapidpro/expressions.git
+
+Possible Reason:
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
+
+Suggested Solution:
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
+
+================================================================================
+
+Error #13
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T20:09:54.611754
+Repository: git@github.com:twitter/heron.git
+Ecosystems: Maven, PyPI
+Error Type: PARSE_ERROR
+Error Message: Could not parse GitHub URL: git@github.com:twitter/heron.git
+
+Possible Reason:
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
+
+Suggested Solution:
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
+
+================================================================================
+
+Error #14
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T20:09:57.922360
+Repository: git@github.com:jupyter-incubator/declarativewidgets.git
+Ecosystems: Maven, PyPI
+Error Type: PARSE_ERROR
+Error Message: Could not parse GitHub URL: git@github.com:jupyter-incubator/declarativewidgets.git
+
+Possible Reason:
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
+
+Suggested Solution:
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
+
+================================================================================
+
+Error #15
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T20:09:59.947713
+Repository: https://github.com/infrmods/xbus-client
 Ecosystems: Maven, PyPI
 Error Type: NOT_FOUND
-Error Message: Repository not found: blinq-io/selenium-session-manager
+Error Message: Repository not found: infrmods/xbus-client
 
 Possible Reason:
   Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
@@ -149,9 +245,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #10
+Error #16
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-01T23:22:38.700276
+Timestamp: 2025-12-15T20:10:17.033709
 Repository: https://github.com/username/project
 Ecosystems: Maven, PyPI
 Error Type: NOT_FOUND
@@ -165,25 +261,57 @@ Suggested Solution:
 
 ================================================================================
 
-Error #11
+Error #17
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-01T23:22:59.748589
-Repository: https://github.com/4paradigm/SparkFE
+Timestamp: 2025-12-15T20:10:41.645292
+Repository: git@github.com:apache/incubator-heron.git
 Ecosystems: Maven, PyPI
-Error Type: NOT_FOUND
-Error Message: Repository not found: 4paradigm/SparkFE
+Error Type: PARSE_ERROR
+Error Message: Could not parse GitHub URL: git@github.com:apache/incubator-heron.git
 
 Possible Reason:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
 
 Suggested Solution:
-  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
 
 ================================================================================
 
-Error #12
+Error #18
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-01T23:23:15.402578
+Timestamp: 2025-12-15T20:10:45.002168
+Repository: git@github.com:delta-io/delta.git
+Ecosystems: Maven, PyPI
+Error Type: PARSE_ERROR
+Error Message: Could not parse GitHub URL: git@github.com:delta-io/delta.git
+
+Possible Reason:
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
+
+Suggested Solution:
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
+
+================================================================================
+
+Error #19
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T20:10:46.489007
+Repository: git@github.com:robrua/easy-bert.git
+Ecosystems: Maven, PyPI
+Error Type: PARSE_ERROR
+Error Message: Could not parse GitHub URL: git@github.com:robrua/easy-bert.git
+
+Possible Reason:
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
+
+Suggested Solution:
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
+
+================================================================================
+
+Error #20
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T20:11:07.634951
 Repository: https://github.com/floydpink/jsii-code-samples.git
 Ecosystems: Maven, PyPI
 Error Type: NOT_FOUND
@@ -197,19 +325,323 @@ Suggested Solution:
 
 ================================================================================
 
-Error #13
+Error #21
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-01T23:23:39.247391
-Repository: https://github.com/infrmods/xbus-client
-Ecosystems: Maven, PyPI
+Timestamp: 2025-12-15T20:11:35.267956
+Repository: https://github.com/xxx/xxxx/tree/master
+Ecosystems: Maven
 Error Type: NOT_FOUND
-Error Message: Repository not found: infrmods/xbus-client
+Error Message: Repository not found: xxx/xxxx
 
 Possible Reason:
   Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
 
 Suggested Solution:
   Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #22
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T20:11:35.542433
+Repository: https://github.com/xxx/xxxx
+Ecosystems: PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: xxx/xxxx
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #23
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T20:11:40.110820
+Repository: https://github.com/4paradigm/SparkFE
+Ecosystems: Maven, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: 4paradigm/SparkFE
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #24
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T20:12:11.167511
+Repository: git@github.com:jpy-consortium/jpy.git
+Ecosystems: Maven, PyPI
+Error Type: PARSE_ERROR
+Error Message: Could not parse GitHub URL: git@github.com:jpy-consortium/jpy.git
+
+Possible Reason:
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
+
+Suggested Solution:
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
+
+================================================================================
+
+Error #25
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T20:12:12.268814
+Repository: scm:git:git@github.com:Open-Metadata/OpenMetadata
+Ecosystems: Maven, PyPI
+Error Type: PARSE_ERROR
+Error Message: Could not parse GitHub URL: scm:git:git@github.com:Open-Metadata/OpenMetadata
+
+Possible Reason:
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
+
+Suggested Solution:
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
+
+================================================================================
+
+Error #26
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T20:12:14.720893
+Repository: https://github.com/blinq-io/selenium-session-manager
+Ecosystems: Maven, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: blinq-io/selenium-session-manager
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #27
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T20:12:15.819611
+Repository: https://github.com/th2-net/th2-grpc-books-validation.git
+Ecosystems: Maven, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: th2-net/th2-grpc-books-validation
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #28
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T20:12:23.732635
+Repository: https://github.com/cdklabs/cdk-pipelines-codecatalyst.git
+Ecosystems: Maven, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: cdklabs/cdk-pipelines-codecatalyst
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #29
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T20:12:29.677606
+Repository: ssh://git@github.com:apache/iotdb.git
+Ecosystems: Maven, PyPI
+Error Type: PARSE_ERROR
+Error Message: Could not parse GitHub URL: ssh://git@github.com:apache/iotdb.git
+
+Possible Reason:
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
+
+Suggested Solution:
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
+
+================================================================================
+
+Error #30
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T20:12:35.101414
+Repository: https://github.com/danielafriyie/raccy-utils
+Ecosystems: Maven, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: danielafriyie/raccy-utils
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #31
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T20:13:13.351022
+Repository: https://github.com/yourusername/yourproject
+Ecosystems: Maven, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: yourusername/yourproject
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #32
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T20:13:24.149052
+Repository: https://github.com/snowflakedb/snowflake-ingest-sdk
+Ecosystems: Maven, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: snowflakedb/snowflake-ingest-sdk
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #33
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T20:13:24.443868
+Repository: scm:git:git://github.com/nebraska-dev/cronk
+Ecosystems: Maven
+Error Type: NOT_FOUND
+Error Message: Repository not found: nebraska-dev/cronk
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #34
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T20:13:24.747537
+Repository: https://github.com/nebraska-dev/cronk/
+Ecosystems: PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: nebraska-dev/cronk
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #35
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T20:13:30.921207
+Repository: https://github.com/xiangxinai/xiangxin-guardrails/tree/main/client/xiangxinai-java
+Ecosystems: Maven
+Error Type: NOT_FOUND
+Error Message: Repository not found: xiangxinai/xiangxin-guardrails
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #36
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T20:13:31.218426
+Repository: https://github.com/xiangxinai/xiangxin-guardrails
+Ecosystems: PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: xiangxinai/xiangxin-guardrails
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #37
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T20:13:32.859832
+Repository: https://github.com/cubedm/jwt-auth-modules/tree/main
+Ecosystems: Maven
+Error Type: NOT_FOUND
+Error Message: Repository not found: cubedm/jwt-auth-modules
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #38
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T20:13:33.168696
+Repository: https://github.com/cubedm/jwt-auth-modules
+Ecosystems: PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: cubedm/jwt-auth-modules
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #39
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T20:13:33.460106
+Repository: https://github.com/magistvan/match-predicting-ann-server-client
+Ecosystems: Maven, PyPI
+Error Type: NOT_FOUND
+Error Message: Repository not found: magistvan/match-predicting-ann-server-client
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #40
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-15T20:13:33.462500
+Repository: git@github.com:lance-format/lance-namespace.git
+Ecosystems: Maven, PyPI
+Error Type: PARSE_ERROR
+Error Message: Could not parse GitHub URL: git@github.com:lance-format/lance-namespace.git
+
+Possible Reason:
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
+
+Suggested Solution:
+  Ensure the URL follows the format: https://github.com/owner/repo or git@github.com:owner/repo.git
 
 ================================================================================
 

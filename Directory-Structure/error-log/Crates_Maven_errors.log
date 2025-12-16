@@ -1,0 +1,55 @@
+================================================================================
+Error Log for Crates_Maven
+================================================================================
+Total Errors: 3
+Generated: 2025-12-16 08:24:11
+================================================================================
+
+Error #1
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T02:42:11.655142
+Repository: https://github.com/sheshagiri/pacman-app
+Ecosystems: Crates
+Error Type: NOT_FOUND
+Error Message: Repository not found: sheshagiri/pacman-app
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #2
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T02:42:11.938062
+Repository: https://github.com/Sheshagiri/pacman-app
+Ecosystems: Maven
+Error Type: NOT_FOUND
+Error Message: Repository not found: Sheshagiri/pacman-app
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #3
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T02:42:13.168594
+Repository: https://www.github.com/pahappa-ltd/EgoSmsSDK
+Ecosystems: Crates, Maven
+Error Type: NOT_FOUND
+Error Message: Repository not found: pahappa-ltd/EgoSmsSDK
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+

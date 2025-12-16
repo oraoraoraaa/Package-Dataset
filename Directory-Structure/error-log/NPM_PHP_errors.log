@@ -1,13 +1,13 @@
 ================================================================================
 Error Log for NPM_PHP
 ================================================================================
-Total Errors: 17
-Generated: 2025-12-02 06:39:38
+Total Errors: 18
+Generated: 2025-12-16 08:24:11
 ================================================================================
 
 Error #1
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:17:24.909935
+Timestamp: 2025-12-16T02:43:15.315875
 Repository: https://github.com/FastyBird/accounts-module
 Ecosystems: NPM, PHP
 Error Type: NOT_FOUND
@@ -23,7 +23,7 @@ Suggested Solution:
 
 Error #2
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:17:25.180497
+Timestamp: 2025-12-16T02:43:15.592941
 Repository: https://github.com/FastyBird/devices-module
 Ecosystems: NPM, PHP
 Error Type: NOT_FOUND
@@ -39,7 +39,7 @@ Suggested Solution:
 
 Error #3
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:17:25.466771
+Timestamp: 2025-12-16T02:43:15.890270
 Repository: https://github.com/FastyBird/homekit-connector
 Ecosystems: NPM, PHP
 Error Type: NOT_FOUND
@@ -55,7 +55,7 @@ Suggested Solution:
 
 Error #4
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:17:25.754633
+Timestamp: 2025-12-16T02:43:16.858739
 Repository: https://github.com/FastyBird/metadata-library
 Ecosystems: NPM, PHP
 Error Type: NOT_FOUND
@@ -71,7 +71,7 @@ Suggested Solution:
 
 Error #5
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:17:26.035205
+Timestamp: 2025-12-16T02:43:17.147476
 Repository: https://github.com/FastyBird/tools
 Ecosystems: NPM, PHP
 Error Type: NOT_FOUND
@@ -87,7 +87,7 @@ Suggested Solution:
 
 Error #6
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:17:27.033505
+Timestamp: 2025-12-16T02:43:17.427857
 Repository: https://github.com/FastyBird/triggers-module
 Ecosystems: NPM, PHP
 Error Type: NOT_FOUND
@@ -103,7 +103,7 @@ Suggested Solution:
 
 Error #7
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:17:27.317808
+Timestamp: 2025-12-16T02:43:17.719981
 Repository: https://github.com/FastyBird/ui-module
 Ecosystems: NPM, PHP
 Error Type: NOT_FOUND
@@ -119,7 +119,7 @@ Suggested Solution:
 
 Error #8
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:20:02.039488
+Timestamp: 2025-12-16T02:45:41.553250
 Repository: https://github.com/themingisprose/icon-pack
 Ecosystems: NPM, PHP
 Error Type: NOT_FOUND
@@ -135,7 +135,7 @@ Suggested Solution:
 
 Error #9
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:21:00.480639
+Timestamp: 2025-12-16T02:46:36.792904
 Repository: https://github.com/apolbox/apolbox
 Ecosystems: NPM, PHP
 Error Type: NOT_FOUND
@@ -151,7 +151,7 @@ Suggested Solution:
 
 Error #10
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:21:00.787133
+Timestamp: 2025-12-16T02:46:37.387775
 Repository: https://github.com/apolbox/framework
 Ecosystems: NPM, PHP
 Error Type: NOT_FOUND
@@ -167,7 +167,7 @@ Suggested Solution:
 
 Error #11
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:21:25.711753
+Timestamp: 2025-12-16T02:47:01.018012
 Repository: https://github.com/basecondition/base
 Ecosystems: NPM, PHP
 Error Type: NOT_FOUND
@@ -183,7 +183,7 @@ Suggested Solution:
 
 Error #12
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:22:03.428084
+Timestamp: 2025-12-16T02:47:38.419018
 Repository: https://github.com/docomoinnovations/cloud_dashboard
 Ecosystems: NPM, PHP
 Error Type: NOT_FOUND
@@ -199,7 +199,7 @@ Suggested Solution:
 
 Error #13
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:22:06.983594
+Timestamp: 2025-12-16T02:47:41.173606
 Repository: https://github.com/ColbyCommunications/colby-svg
 Ecosystems: NPM, PHP
 Error Type: NOT_FOUND
@@ -215,7 +215,7 @@ Suggested Solution:
 
 Error #14
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:25:31.464577
+Timestamp: 2025-12-16T02:51:04.428458
 Repository: https://github.com/Justintime50/slugify
 Ecosystems: NPM, PHP
 Error Type: NOT_FOUND
@@ -231,7 +231,23 @@ Suggested Solution:
 
 Error #15
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:25:50.513069
+Timestamp: 2025-12-16T02:51:14.665604
+Repository: https://github.com/ZiperRom1/laravel-boilerplate
+Ecosystems: NPM, PHP
+Error Type: API_ERROR
+Error Message: Error getting repo info: HTTP 502
+
+Possible Reason:
+  Check your internet connection and GitHub API status. If the problem persists, the repository may have issues or GitHub API may be down.
+
+Suggested Solution:
+  Check your internet connection and GitHub API status. If the problem persists, the repository may have issues or GitHub API may be down.
+
+================================================================================
+
+Error #16
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T02:51:21.341896
 Repository: https://github.com/spatie/laravel-javascript-views
 Ecosystems: NPM, PHP
 Error Type: NOT_FOUND
@@ -245,9 +261,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #16
+Error #17
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:27:27.785183
+Timestamp: 2025-12-16T02:52:57.680777
 Repository: https://github.com/readdle/rd-crypto
 Ecosystems: NPM, PHP
 Error Type: NOT_FOUND
@@ -261,9 +277,9 @@ Suggested Solution:
 
 ================================================================================
 
-Error #17
+Error #18
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T03:27:42.164467
+Timestamp: 2025-12-16T02:53:10.788063
 Repository: https://github.com/rzl-app/ziggy
 Ecosystems: NPM, PHP
 Error Type: NOT_FOUND

@@ -1,23 +1,55 @@
 ================================================================================
 Error Log for Go_Maven_NPM_Ruby
 ================================================================================
-Total Errors: 1
-Generated: 2025-12-02 06:39:38
+Total Errors: 3
+Generated: 2025-12-16 08:24:11
 ================================================================================
 
 Error #1
 --------------------------------------------------------------------------------
-Timestamp: 2025-12-02T06:33:47.752141
-Repository: https://github.com/blueimp/javascript-canvas-to-blob
-Ecosystems: Go
-Error Type: TREE_ERROR
-Error Message: Error getting tree: HTTP 403
+Timestamp: 2025-12-16T08:17:10.476767
+Repository: https://github.com/vertexcache/vertexcache
+Ecosystems: Go, Maven
+Error Type: NOT_FOUND
+Error Message: Repository not found: vertexcache/vertexcache
 
 Possible Reason:
-  The repository tree may be too large or the default branch may be empty. Try cloning the repository manually to inspect its structure.
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
 
 Suggested Solution:
-  The repository tree may be too large or the default branch may be empty. Try cloning the repository manually to inspect its structure.
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #2
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T08:17:10.781414
+Repository: https://github.com/VertexCache/VertexCache
+Ecosystems: NPM
+Error Type: NOT_FOUND
+Error Message: Repository not found: VertexCache/VertexCache
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+================================================================================
+
+Error #3
+--------------------------------------------------------------------------------
+Timestamp: 2025-12-16T08:17:11.193599
+Repository: https://github.com/VertexCache/VertexCache/tree/main/client-sdks/ruby
+Ecosystems: Ruby
+Error Type: NOT_FOUND
+Error Message: Repository not found: VertexCache/VertexCache
+
+Possible Reason:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
+
+Suggested Solution:
+  Verify the repository URL is correct and the repository still exists. It may have been deleted, made private, or renamed.
 
 ================================================================================
 
