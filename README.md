@@ -4,7 +4,7 @@ This repo contains registry lists, cross-ecosystem lists, and directory structur
 
 The original scripts used to mine or analyze the lists are also uploaded in this repository. You can navigate the the corresponding script and run it locally for latest results.
 
-![general-map](https://github.com/user-attachments/assets/c21f2ce5-ab88-4bf6-9459-8b5f4f10fbee)
+![general-map](https://github.com/user-attachments/assets/20b73733-fdea-43f9-88db-7c6b6bf7d572)
 
 # How to Use
 
