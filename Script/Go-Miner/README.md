@@ -6,7 +6,7 @@ This tool downloads and processes the Go module index to extract Go package info
 
 - Downloads module list from the official Go module index (index.golang.org)
 - Extracts package metadata (ID, name, homepage, repository)
-- Automatically infers repository URLs from module paths
+- Retrieves repository URLs from Go proxy API Origin field (no inference)
 - Formats data for cross-ecosystem package analysis
 - **Advanced progress tracking with detailed statistics**
 - **Checkpoint system** - Resume interrupted downloads automatically
@@ -104,7 +104,7 @@ The script will:
 3. Parse module entries (path, version, timestamp)
 4. Extract unique module paths (deduplicating versions)
 5. **Save checkpoints every 1000 batches** for resume capability
-6. Infer repository URLs from module paths
+6. Fetch repository URLs from Go proxy API (when available)
 7. Generate CSV output (default: `Resource/Package/Package-List/Go_New.csv`)
 
 ### Resume from Interruption
@@ -144,44 +144,23 @@ ID,Platform,Name,Homepage URL,Repository URL
 - **ID**: Sequential identifier (1, 2, 3, ...)
 - **Platform**: Always "Go" for Go packages
 - **Name**: Full module path (e.g., github.com/user/repo)
-- **Homepage URL**: Inferred from module path (typically repository URL)
-- **Repository URL**: Source code repository URL
+- **Homepage URL**: Retrieved from Go proxy API Origin field ("nan" if unavailable)
+- **Repository URL**: Retrieved from Go proxy API Origin field ("nan" if unavailable)
 
 **Note**: This format is compatible with the Package-Filter tool for cross-ecosystem analysis.
 
-## Go Module Path Patterns
+## Data Source and Availability
 
-The script handles various Go module path patterns:
+Repository URLs are retrieved from the Go proxy API's `Origin` field. Note that:
 
-### GitHub Modules
+- **Modern modules** (Go 1.13+): Usually include Origin metadata with repository URL
+- **Older modules**: May not have Origin data in the API response
+- **When unavailable**: Values are set to "nan" (no inference or guessing)
 
-```
-github.com/user/repo → https://github.com/user/repo
-```
+Example modules:
 
-### GitLab Modules
-
-```
-gitlab.com/user/repo → https://gitlab.com/user/repo
-```
-
-### Bitbucket Modules
-
-```
-bitbucket.org/user/repo → https://bitbucket.org/user/repo
-```
-
-### gopkg.in Modules
-
-```
-gopkg.in/user/repo.v1 → https://github.com/user/repo
-```
-
-### Custom Domain Modules
-
-```
-example.com/package → https://example.com/package
-```
+- `github.com/logbull/logbull-go` - ✅ Has Origin data
+- `gopkg.in/yaml.v3` - ❌ No Origin data (returns "nan")
 
 ## Processing Details
 
@@ -199,16 +178,17 @@ The script:
 1. Downloads all entries as newline-delimited JSON
 2. Parses each entry
 3. Extracts unique module paths (ignoring multiple versions)
-4. Infers repository URLs from paths
+4. Queries Go proxy API for each module's Origin metadata
+5. Extracts repository URLs from Origin field (when available)
 
-### URL Inference Logic
+### API Data Retrieval
 
-For each module path, the script:
+For each module, the script queries:
 
-1. Checks if it starts with known hosting platforms (GitHub, GitLab, etc.)
-2. Extracts the base repository path (vendor/project)
-3. Constructs appropriate URLs
-4. Handles special cases like gopkg.in redirects
+1. `/@latest` endpoint for latest version and Origin data
+2. `/@v/{version}.info` endpoint for specific version Origin data
+3. Returns "nan" if Origin field is not present in API response
+4. **No inference or pattern matching** - only uses official API data
 
 ## Files
 
@@ -335,7 +315,7 @@ NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+
 - **No Rate Limits**: Public index with no authentication required
 - **Complete Data**: Includes all public Go modules (~5.7M+)
 - **Efficient Pagination**: Batched requests with automatic deduplication
-- **Simple Inference**: Repository URLs derived from module paths
+- **Reliable Data**: Only uses API-provided Origin data (no inference)
 - **Robust & Reliable**: Automatic retry, checkpoint system, graceful interruption handling
 - **Fast Performance**: Optimized connection pooling and batch processing
 - **Flexible Output**: Customizable output directory and filename
@@ -343,10 +323,10 @@ NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+
 
 ## Limitations
 
-- **URL Accuracy**: Inferred URLs may not always be correct for custom domains
+- **Origin Data Availability**: Many modules (especially older ones) lack Origin metadata in Go proxy API
 - **Module Versions**: Only unique module paths are stored (versions ignored)
 - **Private Modules**: Only includes public modules
-- **Metadata**: Limited to what's available in module path (no descriptions, etc.)
+- **Metadata**: Limited to what's available in Go proxy API (no descriptions, etc.)
 
 ---
 
@@ -437,19 +417,23 @@ if module_path and module_path not in modules_set:
 - We only need unique paths, not version info
 - Memory efficient for 5.7M+ modules
 
-### 4. URL Inference
+### 4. API Data Retrieval
 
 ```python
-def get_module_info(module_path):
-    if module_path.startswith("github.com/"):
-        repo_url = f"https://{base_repo}"
+def get_module_info(module_path, session):
+    # Query Go proxy API for Origin metadata
+    response = session.get(f"https://proxy.golang.org/{module_path}/@latest")
+    origin = response.json().get('Origin', {})
+    if origin:
+        repo_url = origin.get('URL')
 ```
 
-**Strategy**: Go module paths ARE the repository paths.
+**Strategy**: Retrieve repository URLs from official Go proxy API.
 
-- `github.com/user/repo` → `https://github.com/user/repo`
-- Simple prefix matching and URL construction
-- Handles special cases (gopkg.in redirects)
+- Queries `/@latest` and `/@v/{version}.info` endpoints
+- Extracts URL from Origin field when available
+- Returns "nan" if Origin data not present
+- **No inference or pattern matching**
 
 ### 5. Batch CSV Writing
 

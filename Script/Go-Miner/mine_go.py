@@ -215,48 +215,63 @@ def get_module_info(module_path, session):
         versions_url = f"https://proxy.golang.org/{module_path}/@v/list"
         response = session.get(versions_url, timeout=10)
         
+        latest_version = None
+        
         if response.status_code == 200:
             versions = response.text.strip().split('\n')
             if versions and versions[0]:
                 # Use the latest version
                 latest_version = versions[-1]
-                
-                # Fetch the .info file which contains metadata
-                info_url = f"https://proxy.golang.org/{module_path}/@v/{latest_version}.info"
-                info_response = session.get(info_url, timeout=10)
-                
-                if info_response.status_code == 200:
-                    info_data = info_response.json()
-                    # The info file doesn't have repo URL, so fetch go.mod
-                    mod_url = f"https://proxy.golang.org/{module_path}/@v/{latest_version}.mod"
-                    mod_response = session.get(mod_url, timeout=10)
-                    
-                    if mod_response.status_code == 200:
-                        # Parse go.mod for repository information
-                        # Look for comments or module declarations that might have URLs
-                        mod_content = mod_response.text
-                        
-                        # Try to extract repository URL from the module path itself
-                        # as Go modules typically use the repository URL as the module path
-                        if module_path.startswith(("github.com/", "gitlab.com/", "bitbucket.org/")):
-                            parts = module_path.split('/')
-                            if len(parts) >= 3:
-                                base_repo = '/'.join(parts[:3])
-                                repo_url = f"https://{base_repo}"
-                                homepage_url = f"https://{base_repo}"
-                        elif module_path.startswith("gopkg.in/"):
-                            # gopkg.in redirects to GitHub
-                            parts = module_path.replace("gopkg.in/", "").split('/')
-                            if len(parts) >= 2:
-                                user = parts[0]
-                                repo = parts[1].split('.')[0]
-                                repo_url = f"https://github.com/{user}/{repo}"
-                                homepage_url = f"https://github.com/{user}/{repo}"
-                        elif '.' in module_path.split('/')[0]:
-                            # Custom domain
-                            homepage_url = f"https://{module_path.split('/')[0]}"
+        
+        # Try @v/latest first to get both version and repository URL
+        latest_url = f"https://proxy.golang.org/{module_path}/@latest"
+        latest_response = session.get(latest_url, timeout=10)
+        if latest_response.status_code == 200:
+            latest_data = latest_response.json()
+            if not latest_version:
+                latest_version = latest_data.get('Version')
+            # Extract repository URL from Origin field if available
+            origin = latest_data.get('Origin', {})
+            if origin:
+                origin_url = origin.get('URL')
+                if origin_url:
+                    repo_url = origin_url
+                    homepage_url = origin_url
+        
+        # If still no version found, try master or main branch
+        if not latest_version:
+            for branch in ['master', 'main']:
+                branch_url = f"https://proxy.golang.org/{module_path}/@v/{branch}.info"
+                branch_response = session.get(branch_url, timeout=10)
+                if branch_response.status_code == 200:
+                    branch_data = branch_response.json()
+                    latest_version = branch_data.get('Version')
+                    if latest_version:
+                        # Also try to get Origin URL from branch info
+                        origin = branch_data.get('Origin', {})
+                        if origin and repo_url == "nan":
+                            origin_url = origin.get('URL')
+                            if origin_url:
+                                repo_url = origin_url
+                                homepage_url = origin_url
+                        break
+        
+        # If we have a version but still no repo URL, fetch the .info file
+        if latest_version and repo_url == "nan":
+            info_url = f"https://proxy.golang.org/{module_path}/@v/{latest_version}.info"
+            info_response = session.get(info_url, timeout=10)
+            if info_response.status_code == 200:
+                info_data = info_response.json()
+                origin = info_data.get('Origin', {})
+                if origin:
+                    origin_url = origin.get('URL')
+                    if origin_url:
+                        repo_url = origin_url
+                        homepage_url = origin_url
+        
+        # No fallback inference - only use data from official Go proxy API
     except (requests.exceptions.RequestException, ValueError, KeyError, IndexError):
-        # If API call fails, keep nan values
+        # If API call fails, keep values as "nan" - do not infer from module path
         pass
     
     return homepage_url, repo_url
@@ -275,7 +290,7 @@ def mine_go_packages(output_dir=None, output_filename=None):
     
     # Create the path to the output file
     if output_dir is None:
-        output_dir = os.path.abspath(os.path.dirname(__file__))
+        output_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', '..', 'Resource', 'Package', 'Package-List'))
     else:
         output_dir = os.path.abspath(output_dir)
     
@@ -369,7 +384,7 @@ Examples:
         '-o', '--output-dir',
         type=str,
         default=None,
-        help='Output directory for the CSV file. Default: .'
+        help='Output directory for the CSV file. Default: ../../../Resource/Package/Package-List'
     )
     
     parser.add_argument(
