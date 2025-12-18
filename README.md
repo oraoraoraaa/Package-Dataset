@@ -47,20 +47,16 @@ Contains the whole lists of packages in the corresponding ecosystem.
   2. Use the Go proxy API to get the latest version info.
   3. Fetch the .info file which contains metadata.
   4. The info file doesn't have repo URL, so fetch go.mod.
-- Mine Date: 2025-11-30
-- Amount: 2,214,193
-- Additional Notes:
-  1. Domain name `gopkg.in` redirects to GitHub. So it's converted to a github link.
-  2. Custom domain names are preserved.
+- Mine Date: 2025-12-15
+- Amount: 2,164,784
 
 ### Maven
 
-- Source: https://search.maven.org/solrsearch/select (artifacts metadata), https://repo1.maven.org/maven2/{group_path}/{artifact_id}/{version}/{artifact_id}-{version}.pom (repo URL)
+- Source: https://repo1.maven.org/maven2/.index/
 - Description:
-  1. Use the `search` api to get the total number of packages as well as metadata of them.
-  2. Construct the url to `POM` file and fetch it. Extract information from the `POM` file.
-- Mine Date: 2025-12-1
-- Amount: 657,929
+  1. Maven provides a pre-built complete package name set.
+- Mine Date: 2025-12-14
+- Amount: 751,350
 
 ### NPM
 
