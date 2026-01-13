@@ -4,7 +4,7 @@ This repo contains registry lists, cross-ecosystem lists, and directory structur
 
 The original scripts used to mine or analyze the lists are also uploaded in this repository. You can navigate the the corresponding script and run it locally for latest results.
 
-![general-map](https://github.com/user-attachments/assets/20b73733-fdea-43f9-88db-7c6b6bf7d572)
+![general-map](https://github.com/user-attachments/assets/5ac77550-8fe5-4da2-a1b0-7c2d88a4c692)
 
 # How to Use
 
@@ -62,8 +62,8 @@ Contains the whole lists of packages in the corresponding ecosystem.
 
 - Source: https://replicate.npmjs.com/_all_docs (package name), https://registry.npmjs.org/{package_name} (repo URL)
 - Description: `npm` provides an all-docs endpoint that returns all package names. Use the names we can fetch information for `npm` packages using API.
-- Mine Date: 2025-11-30
-- Amount: 3,706,503
+- Mine Date: 2026-01-09
+- Amount: 3,750,520
 
 ### PHP
 
