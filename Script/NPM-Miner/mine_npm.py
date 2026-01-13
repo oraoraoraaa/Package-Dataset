@@ -90,7 +90,7 @@ def mine_npm_packages():
         return
     
     # Create the path to the output file
-    output_dir = os.path.abspath(os.path.dirname(__file__))
+    output_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', '..', 'Resource', 'Package', 'Package-List'))
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
     output_file = os.path.join(output_dir, "NPM.csv")
@@ -126,19 +126,9 @@ def mine_npm_packages():
                 else:
                     repo_url = "nan"
                 
-                # Clean up repository URL
-                if repo_url and repo_url != "nan":
-                    # Remove git+, git://, ssh://, etc.
-                    repo_url = repo_url.replace('git+https://', 'https://')
-                    repo_url = repo_url.replace('git+ssh://git@', 'https://')
-                    repo_url = repo_url.replace('git://', 'https://')
-                    repo_url = repo_url.replace('ssh://git@', 'https://')
-                    repo_url = repo_url.replace('git@github.com:', 'https://github.com/')
-                    repo_url = repo_url.replace('.git', '')
-                    
-                    if not repo_url.startswith('http'):
-                        repo_url = "nan"
-                else:
+                # Keep URLs as-is from the registry (no normalization)
+                # Package-Filter will handle normalization
+                if not repo_url or repo_url == "nan" or repo_url == "":
                     repo_url = "nan"
                     
         except (requests.exceptions.RequestException, ValueError, KeyError):

@@ -28,23 +28,48 @@ def normalize_github_url(url):
     if "github.com" not in url:
         return None
 
-    # Remove common suffixes
+    # Remove common suffixes and prefixes
     url = re.sub(r"\.git$", "", url)
     url = re.sub(r"/$", "", url)
+    
+    # Remove git protocol prefixes
+    url = url.replace('git+https://', 'https://')
+    url = url.replace('git+ssh://', 'ssh://')
+    url = url.replace('git://', 'https://')
 
     # Extract path from URL
     try:
-        # Handle various GitHub URL formats
+        # Handle various GitHub URL formats (https, ssh, git@)
         match = re.search(r"github\.com[:/]([^/]+/[^/\s]+)", url)
         if match:
             repo_path = match.group(1)
             # Remove trailing content after repository name
             repo_path = re.split(r"[\s#?]", repo_path)[0]
+            # Remove .git suffix if still present in the extracted path
+            repo_path = re.sub(r"\.git$", "", repo_path)
+            # Remove trailing slash
+            repo_path = repo_path.rstrip('/')
             return f"github.com/{repo_path}"
     except:
         pass
 
     return None
+
+
+def normalize_github_url_with_fallback(repo_url, homepage_url):
+    """
+    Normalize GitHub URL with Homepage URL as fallback.
+    First tries Repository URL, if that fails, tries Homepage URL.
+    Returns None if neither contains a valid GitHub URL.
+    """
+    # Try Repository URL first
+    normalized = normalize_github_url(repo_url)
+    if normalized:
+        return normalized
+    
+    # Fallback to Homepage URL
+    normalized = normalize_github_url(homepage_url)
+    return normalized
 
 
 def load_package_data(base_path):
@@ -58,7 +83,7 @@ def load_package_data(base_path):
         "NPM": [base_path / "NPM.csv"],
         "PyPI": [base_path / "PyPI.csv"],
         "Crates": [base_path / "Crates.csv"],
-        "Go": [base_path / "Go.csv"],
+        "Go": [base_path / f"Go.csv"],
         "PHP": [base_path / "PHP.csv"],
         "Ruby": [base_path / "Ruby.csv"],
     }
@@ -85,9 +110,13 @@ def load_package_data(base_path):
         df = pd.concat(dfs, ignore_index=True)
 
         # Add normalized columns with progress bar
+        # Use Homepage URL as fallback when Repository URL is missing
         tqdm.pandas(desc=f"    Normalizing {ecosystem} repos", leave=False)
-        df["normalized_repo"] = df["Repository URL"].progress_apply(
-            normalize_github_url
+        df["normalized_repo"] = df.progress_apply(
+            lambda row: normalize_github_url_with_fallback(
+                row["Repository URL"], row["Homepage URL"]
+            ),
+            axis=1
         )
 
         packages[ecosystem] = df
@@ -365,7 +394,9 @@ def main():
 
     # Set up paths
     base_path = (
-        Path(__file__).parent.parent.parent
+        Path(__file__).parent.parent.parent.parent
+        / "Resource"
+        / "Package"
         / "Package-List"
     )
     results_path = Path(__file__).parent / "results"
@@ -377,6 +408,17 @@ def main():
 
     # Load all package data
     packages = load_package_data(base_path)
+
+    # Calculate input statistics
+    total_input_packages = 0
+    all_valid_repos = set()
+    for df in packages.values():
+        total_input_packages += len(df)
+        # valid repos only
+        repos = df["normalized_repo"].dropna()
+        all_valid_repos.update(repos)
+    
+    valid_packages_count = len(all_valid_repos)
 
     # Get list of available ecosystems
     ecosystems = sorted(packages.keys())
@@ -483,6 +525,75 @@ def main():
     # Create summary DataFrame
     summary_df = pd.DataFrame(results_summary)
 
+    # Calculate total cross-ecosystem packages
+    total_cross_ecosystem = summary_df["Package Count"].sum() if not summary_df.empty else 0
+    cross_ecosystem_percentage = (total_cross_ecosystem / valid_packages_count * 100) if valid_packages_count > 0 else 0
+
+    # Calculate per-ecosystem cross-ecosystem statistics
+    print("\n" + "=" * 80)
+    print("Calculating per-ecosystem statistics...")
+    print("=" * 80)
+    
+    ecosystem_stats = {}
+    
+    for ecosystem in ecosystems:
+        # Get total packages loaded for this ecosystem
+        total_packages_loaded = len(packages[ecosystem])
+        
+        # Get all packages from this ecosystem that have valid repos
+        ecosystem_lookup = lookups[ecosystem]
+        total_packages_with_repo = len(ecosystem_lookup)
+        
+        # Find all cross-ecosystem packages from this ecosystem
+        cross_ecosystem_repos = set()
+        
+        for count in sorted(combinations_by_count.keys()):
+            subfolder = results_path / f"{count}_ecosystems"
+            if not subfolder.exists():
+                continue
+            
+            for ecosystems_list, output_file in combinations_by_count[count]:
+                # Only process combinations that include this ecosystem
+                if ecosystem not in ecosystems_list:
+                    continue
+                
+                file_path = subfolder / output_file
+                if not file_path.exists():
+                    continue
+                
+                df = pd.read_csv(file_path)
+                if df.empty:
+                    continue
+                
+                # Get the repo column for this ecosystem
+                repo_col = f"{ecosystem}_Repo"
+                if repo_col not in df.columns:
+                    continue
+                
+                # Add all repos from this ecosystem to the set
+                for _, row in df.iterrows():
+                    repo = normalize_github_url(row[repo_col])
+                    if repo:
+                        cross_ecosystem_repos.add(repo)
+        
+        cross_ecosystem_count = len(cross_ecosystem_repos)
+        percentage = (cross_ecosystem_count / total_packages_with_repo * 100) if total_packages_with_repo > 0 else 0
+        
+        ecosystem_stats[ecosystem] = {
+            "Total Packages": total_packages_loaded,
+            "Valid Indexed Repos": total_packages_with_repo,
+            "Cross-Ecosystem Packages": cross_ecosystem_count,
+            "Percentage": percentage
+        }
+        
+        print(f"  {ecosystem}: {cross_ecosystem_count}/{total_packages_with_repo} ({percentage:.2f}%)")
+    
+    # Create ecosystem statistics DataFrame
+    ecosystem_stats_df = pd.DataFrame.from_dict(ecosystem_stats, orient='index')
+    ecosystem_stats_df.index.name = 'Ecosystem'
+    ecosystem_stats_df = ecosystem_stats_df.reset_index()
+    ecosystem_stats_df = ecosystem_stats_df.sort_values('Cross-Ecosystem Packages', ascending=False)
+
     # Save summary to CSV
     summary_path = results_path / "summary.csv"
     summary_df.to_csv(summary_path, index=False)
@@ -518,6 +629,17 @@ def main():
         f.write("CROSS-ECOSYSTEM PACKAGE ANALYSIS SUMMARY\n")
         f.write("=" * 80 + "\n\n")
 
+        f.write("INPUT STATISTICS\n")
+        f.write("=" * 80 + "\n")
+        f.write(f"Total Packages Inputted: {total_input_packages:,}\n")
+        f.write(f"Total Valid Repositories (The count of unique normalized GitHub repository URLs across all input packages): {valid_packages_count:,}\n")
+        f.write(f"Total Cross-Ecosystem Packages: {total_cross_ecosystem:,}\n")
+        f.write(f"Percentage of Cross-Ecosystem Packages: {cross_ecosystem_percentage:.2f}%\n\n")
+
+        f.write("PER-ECOSYSTEM STATISTICS\n")
+        f.write("=" * 80 + "\n")
+        f.write(ecosystem_stats_df.to_string(index=False) + "\n\n")
+
         f.write("SUMMARY\n")
         f.write("=" * 80 + "\n")
         f.write(summary_df.to_string(index=False) + "\n\n")
@@ -532,6 +654,11 @@ def main():
         f.write(f"Summary CSV saved to: {summary_path}\n")
         f.write(f"Summary TXT saved to: {summary_txt_path}\n")
         f.write("=" * 80 + "\n")
+
+    print("\n" + "=" * 80)
+    print("PER-ECOSYSTEM STATISTICS")
+    print("=" * 80)
+    print(ecosystem_stats_df.to_string(index=False))
 
     print("\n" + "=" * 80)
     print(f"All results saved to: {results_path}")
