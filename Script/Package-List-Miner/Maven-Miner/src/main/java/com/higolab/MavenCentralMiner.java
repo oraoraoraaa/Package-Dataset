@@ -52,7 +52,7 @@ public class MavenCentralMiner {
             // Create fresh temp directory
             Files.createDirectories(tempDir);
             
-            Path outputPath = Paths.get("../../../Resource/Package/Package-List/Maven.csv").toAbsolutePath().normalize();
+            Path outputPath = Paths.get("../../../Resource/Dataset/Package-List/Maven.csv").toAbsolutePath().normalize();
             Files.createDirectories(outputPath.getParent());
             
             System.out.println("Temporary directory: " + tempDir);

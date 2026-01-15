@@ -17,6 +17,20 @@ from datetime import datetime
 from tqdm import tqdm
 
 
+# ============================================================================
+# PATH CONFIGURATION
+# ============================================================================
+# Modify these paths when moving the script to another location
+
+# Default relative paths (relative to script location)
+DATASET_DIR = Path(__file__).parent / "../../Resource/Dataset/"
+DEFAULT_INPUT_DIR = DATASET_DIR / "Common-Package-Filter"
+DEFAULT_OUTPUT_DIR = DATASET_DIR / "Directory-Structure-Miner"
+DEFAULT_ERROR_LOG_DIR = DATASET_DIR / "Directory-Structure-Miner/error-log"
+
+# ============================================================================
+
+
 class GitHubDirectoryMiner:
     """Mines directory structures from GitHub repositories."""
 
@@ -530,11 +544,11 @@ def process_csv_file(
         tqdm.write(f"No data in {csv_filename}")
         return
 
-    # Determine which repo columns are present
-    repo_columns = [col for col in rows[0].keys() if col.endswith("_Repo")]
-
     # Extract ecosystems from CSV filename
     csv_ecosystems = csv_filename.replace(".csv", "").split("_")
+
+    # Determine which repo columns are present based on filename
+    repo_columns = [f"{eco}_Repo" for eco in csv_ecosystems]
 
     tqdm.write(f"Total packages: {len(rows)}")
     tqdm.write(f"Repository columns: {repo_columns}")
@@ -740,18 +754,18 @@ def main():
     )
     parser.add_argument(
         "--input-dir",
-        default="../../Common-Package",
-        help="Directory containing CSV input files (default: ../Package-Filter/results)",
+        default=DEFAULT_INPUT_DIR,
+        help=f"Directory containing CSV input files (default: {DEFAULT_INPUT_DIR})",
     )
     parser.add_argument(
         "--output-dir",
-        default="results",
-        help="Directory to save output files (default: results)",
+        default=DEFAULT_OUTPUT_DIR,
+        help=f"Directory to save output files (default: {DEFAULT_OUTPUT_DIR})",
     )
     parser.add_argument(
         "--error-log-dir",
-        default="results/error-log",
-        help="Directory to save error logs (default: results/error-log)",
+        default=DEFAULT_ERROR_LOG_DIR,
+        help=f"Directory to save error logs (default: {DEFAULT_ERROR_LOG_DIR})",
     )
     parser.add_argument(
         "--token",

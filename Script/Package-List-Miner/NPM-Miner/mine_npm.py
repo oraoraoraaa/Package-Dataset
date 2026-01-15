@@ -5,6 +5,18 @@ import json
 from tqdm import tqdm
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
+
+# ============================================================================
+# PATH CONFIGURATION
+# ============================================================================
+# Modify these paths when moving the script to another location
+
+# Output path: Location where the CSV file will be saved
+OUTPUT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', '..', 'Resource', 'Dataset', 'Package-List'))
+OUTPUT_FILENAME = "NPM.csv"
+
+# ============================================================================
+
 def mine_npm_packages():
     """Mines npm registry to get the whole list of npm packages."""
     
@@ -90,10 +102,10 @@ def mine_npm_packages():
         return
     
     # Create the path to the output file
-    output_dir = os.path.abspath(os.path.dirname(__file__))
+    output_dir = OUTPUT_DIR
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
-    output_file = os.path.join(output_dir, "NPM.csv")
+    output_file = os.path.join(output_dir, OUTPUT_FILENAME)
     
     print("Fetching detailed information for each package...")
     print("Using parallel processing with 50 workers for faster execution...")
@@ -126,19 +138,9 @@ def mine_npm_packages():
                 else:
                     repo_url = "nan"
                 
-                # Clean up repository URL
-                if repo_url and repo_url != "nan":
-                    # Remove git+, git://, ssh://, etc.
-                    repo_url = repo_url.replace('git+https://', 'https://')
-                    repo_url = repo_url.replace('git+ssh://git@', 'https://')
-                    repo_url = repo_url.replace('git://', 'https://')
-                    repo_url = repo_url.replace('ssh://git@', 'https://')
-                    repo_url = repo_url.replace('git@github.com:', 'https://github.com/')
-                    repo_url = repo_url.replace('.git', '')
-                    
-                    if not repo_url.startswith('http'):
-                        repo_url = "nan"
-                else:
+                # Keep URLs as-is from the registry (no normalization)
+                # Package-Filter will handle normalization
+                if not repo_url or repo_url == "nan" or repo_url == "":
                     repo_url = "nan"
                     
         except (requests.exceptions.RequestException, ValueError, KeyError):

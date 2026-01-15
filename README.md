@@ -36,8 +36,9 @@ Contains the whole lists of packages in the corresponding ecosystem.
 
 - Source: https://static.crates.io/db-dump.tar.gz
 - Description: Crates provides us with the whole database dump file. We can get the necessary information directly from it.
-- Mine Date: 2025-12-1
-- Amount: 207,981
+- Mine Date: 2025-01-15
+- Total: 217,726
+- Valid: 111,799
 
 ### Go
 
@@ -48,43 +49,49 @@ Contains the whole lists of packages in the corresponding ecosystem.
   3. Fetch the .info file which contains metadata.
   4. The info file doesn't have repo URL, so fetch go.mod.
 - Mine Date: 2025-12-15
-- Amount: 2,164,784
+- Total: 2,164,784
+- Valid: 518,795
 
 ### Maven
 
 - Source: https://repo1.maven.org/maven2/.index/
 - Description:
   1. Maven provides a pre-built complete package name set.
-- Mine Date: 2025-12-14
-- Amount: 751,350
+- Mine Date: 2025-01-15
+- Total: 762,368
+- Valid: 134,994
 
 ### NPM
 
 - Source: https://replicate.npmjs.com/_all_docs (package name), https://registry.npmjs.org/{package_name} (repo URL)
 - Description: `npm` provides an all-docs endpoint that returns all package names. Use the names we can fetch information for `npm` packages using API.
 - Mine Date: 2025-11-30
-- Amount: 3,706,503
+- Total: 3,706,504
+- Valid: 1,363,719
 
 ### PHP
 
 - Source: https://packagist.org/packages/list.json (package name), https://packagist.org/packages/{package_name}.json (repo URL)
 - Description: Mines Packagist.org to get the whole list of `PHP` packages, and then fetch information for the packages.
 - Mine Date: 2025-12-1
-- Amount: 431,456
+- Total: 431,457
+- Valid: 403,564
 
 ### PyPI
 
 - Source: https://pypi.org/simple/ (package name), https://pypi.org/pypi/{package_name}/json (repo URL)
 - Description: PyPI simple API provides a list of all packages. Using the names we can fetch information for PyPI packages.
 - Mine Date: 2025-11-30
-- Amount: 705,908
+- Total: 705,908
+- Valid: 338,601
 
 ### Ruby
 
 - Source: http://rubygems.org/names (gem name), https://rubygems.org/api/v1/gems/{gem_name}.json (repo URL)
 - Description: Fetch gem names from RubyGems API and fetch information for gems.
 - Mine Date: 2025-12-1
-- Amount: 188,204
+- Total: 188,204
+- Valid: 129,283
 
 ## Common-Package
 

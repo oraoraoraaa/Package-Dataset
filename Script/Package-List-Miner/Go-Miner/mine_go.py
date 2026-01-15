@@ -12,6 +12,18 @@ import gzip
 from io import BytesIO
 import argparse
 
+
+# ============================================================================
+# PATH CONFIGURATION
+# ============================================================================
+# Modify these paths when moving the script to another location
+
+# Default output path: Location where the CSV file will be saved
+DEFAULT_OUTPUT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', '..', 'Resource', 'Dataset', 'Package-List'))
+DEFAULT_OUTPUT_FILENAME = "Go.csv"
+
+# ============================================================================
+
 def create_session():
     """Creates a requests session with connection pooling and retries."""
     session = requests.Session()
@@ -290,7 +302,7 @@ def mine_go_packages(output_dir=None, output_filename=None):
     
     # Create the path to the output file
     if output_dir is None:
-        output_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', '..', 'Resource', 'Package', 'Package-List'))
+        output_dir = DEFAULT_OUTPUT_DIR
     else:
         output_dir = os.path.abspath(output_dir)
     
@@ -298,7 +310,7 @@ def mine_go_packages(output_dir=None, output_filename=None):
         os.makedirs(output_dir)
     
     if output_filename is None:
-        output_filename = "Go.csv"
+        output_filename = DEFAULT_OUTPUT_FILENAME
     elif not output_filename.endswith('.csv'):
         output_filename += '.csv'
     
@@ -384,14 +396,14 @@ Examples:
         '-o', '--output-dir',
         type=str,
         default=None,
-        help='Output directory for the CSV file. Default: ../../../Resource/Package/Package-List'
+        help=f'Output directory for the CSV file. Default: {DEFAULT_OUTPUT_DIR}'
     )
     
     parser.add_argument(
         '-f', '--output-file',
         type=str,
         default=None,
-        help='Output filename. Default: Go_New.csv (.csv extension will be added if missing)'
+        help=f'Output filename. Default: {DEFAULT_OUTPUT_FILENAME} (.csv extension will be added if missing)'
     )
     
     args = parser.parse_args()

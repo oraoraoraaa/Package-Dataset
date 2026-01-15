@@ -4,6 +4,18 @@ import os
 from tqdm import tqdm
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
+
+# ============================================================================
+# PATH CONFIGURATION
+# ============================================================================
+# Modify these paths when moving the script to another location
+
+# Output path: Location where the CSV file will be saved
+OUTPUT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', '..', 'Resource', 'Dataset', 'Package-List'))
+OUTPUT_FILENAME = "Ruby.csv"
+
+# ============================================================================
+
 def mine_ruby_gems():
     """Mines RubyGems.org to get the whole list of Ruby packages."""
     
@@ -22,10 +34,10 @@ def mine_ruby_gems():
         return
     
     # Create the path to the output file
-    output_dir = os.path.abspath(os.path.dirname(__file__))
+    output_dir = OUTPUT_DIR
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
-    output_file = os.path.join(output_dir, "Ruby.csv")
+    output_file = os.path.join(output_dir, OUTPUT_FILENAME)
     
     print("Fetching detailed information for each gem...")
     print("Using parallel processing with 30 workers for faster execution...")
