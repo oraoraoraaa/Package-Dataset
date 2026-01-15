@@ -6,6 +6,22 @@ import tarfile
 import pandas as pd
 from tqdm import tqdm
 
+
+# ============================================================================
+# PATH CONFIGURATION
+# ============================================================================
+# Modify these paths when moving the script to another location
+
+# Temporary download and extraction paths
+DUMP_PATH = "db-dump.tar.gz"
+EXTRACT_PATH = "crates-db"
+
+# Output path: Location where the CSV file will be saved
+OUTPUT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', '..', 'Resource', 'Dataset', 'Package-List'))
+OUTPUT_FILENAME = "Crates.csv"
+
+# ============================================================================
+
 def download_file(url, filename):
     """Downloads a file from a URL with a progress bar."""
     response = requests.get(url, stream=True)
@@ -28,8 +44,8 @@ def mine_crates():
     """Mines crates.io to get the whole list of Rust packages from the database dump."""
     
     dump_url = "https://static.crates.io/db-dump.tar.gz"
-    dump_path = "db-dump.tar.gz"
-    extract_path = "Script/Crates-Miner/crates-db"
+    dump_path = DUMP_PATH
+    extract_path = EXTRACT_PATH
 
     # Download the database dump
     if not os.path.exists(dump_path):
@@ -69,10 +85,10 @@ def mine_crates():
     df = pd.read_csv(crates_csv_path)
 
     # Create the path to the output file
-    output_dir = os.path.abspath(os.path.dirname(__file__))
+    output_dir = OUTPUT_DIR
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
-    output_file = os.path.join(output_dir, "Crates.csv")
+    output_file = os.path.join(output_dir, OUTPUT_FILENAME)
 
     with open(output_file, "w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)

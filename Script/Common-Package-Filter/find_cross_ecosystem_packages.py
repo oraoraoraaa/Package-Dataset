@@ -14,6 +14,20 @@ from tqdm import tqdm
 from itertools import combinations
 
 
+# ============================================================================
+# PATH CONFIGURATION
+# ============================================================================
+# Modify these paths when moving the script to another location
+
+# Input path: Location of the source package CSV files
+INPUT_BASE_PATH = Path(__file__).parent.parent.parent / "Resource" / "Dataset" / "Package-List"
+
+# Output path: Location where results will be saved
+OUTPUT_RESULTS_PATH = Path(__file__).parent.parent.parent / "Resource" / "Dataset" / "Common-Package-Filter"
+
+# ============================================================================
+
+
 def normalize_github_url(url):
     """
     Normalize GitHub repository URLs to a standard format for comparison.
@@ -392,14 +406,9 @@ def deduplicate_across_ecosystem_counts(results_path, combinations_by_count):
 def main():
     """Main execution function."""
 
-    # Set up paths
-    base_path = (
-        Path(__file__).parent.parent.parent.parent
-        / "Resource"
-        / "Package"
-        / "Package-List"
-    )
-    results_path = Path(__file__).parent / "results"
+    # Set up paths (using configuration at top of file)
+    base_path = INPUT_BASE_PATH
+    results_path = OUTPUT_RESULTS_PATH
     results_path.mkdir(exist_ok=True)
 
     print("=" * 80)

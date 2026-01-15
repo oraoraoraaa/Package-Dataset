@@ -6,6 +6,18 @@ from tqdm import tqdm
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import xml.etree.ElementTree as ET
 
+
+# ============================================================================
+# PATH CONFIGURATION
+# ============================================================================
+# Modify these paths when moving the script to another location
+
+# Output path: Location where the CSV file will be saved
+OUTPUT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', '..', 'Resource', 'Dataset', 'Package-List'))
+OUTPUT_FILENAME = "PyPI.csv"
+
+# ============================================================================
+
 def mine_pypi_packages():
     """Mines PyPI to get the whole list of Python packages."""
     
@@ -32,10 +44,10 @@ def mine_pypi_packages():
         return
     
     # Create the path to the output file
-    output_dir = os.path.abspath(os.path.dirname(__file__))
+    output_dir = OUTPUT_DIR
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
-    output_file = os.path.join(output_dir, "PyPI.csv")
+    output_file = os.path.join(output_dir, OUTPUT_FILENAME)
     
     print("Fetching detailed information for each package...")
     print("Using parallel processing with 50 workers for faster execution...")
