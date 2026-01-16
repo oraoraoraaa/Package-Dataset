@@ -36,9 +36,9 @@ Contains the whole lists of packages in the corresponding ecosystem.
 
 - Source: https://static.crates.io/db-dump.tar.gz
 - Description: Crates provides us with the whole database dump file. We can get the necessary information directly from it.
-- Mine Date: 2025-01-15
-- Total: 217,726
-- Valid: 111,799
+- Mine Date: 2025-01-17
+- Total: 218,234
+- Valid: 112,012
 
 ### Go
 
@@ -57,9 +57,9 @@ Contains the whole lists of packages in the corresponding ecosystem.
 - Source: https://repo1.maven.org/maven2/.index/
 - Description:
   1. Maven provides a pre-built complete package name set.
-- Mine Date: 2025-01-15
-- Total: 762,368
-- Valid: 134,994
+- Mine Date: 2025-01-17
+- Total: 763,405
+- Valid: 135,207
 
 ### NPM
 
