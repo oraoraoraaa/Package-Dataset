@@ -73,9 +73,9 @@ Contains the whole lists of packages in the corresponding ecosystem.
 
 - Source: https://packagist.org/packages/list.json (package name), https://packagist.org/packages/{package_name}.json (repo URL)
 - Description: Mines Packagist.org to get the whole list of `PHP` packages, and then fetch information for the packages.
-- Mine Date: 2025-12-1
-- Total: 431,457
-- Valid: 403,564
+- Mine Date: 2025-01-17
+- Total: 435,167
+- Valid: 406,946
 
 ### PyPI
 
@@ -89,7 +89,7 @@ Contains the whole lists of packages in the corresponding ecosystem.
 
 - Source: http://rubygems.org/names (gem name), https://rubygems.org/api/v1/gems/{gem_name}.json (repo URL)
 - Description: Fetch gem names from RubyGems API and fetch information for gems.
-- Mine Date: 2025-12-1
+- Mine Date: 2025-01-16
 - Total: 188,991
 - Valid: 129,934
 
