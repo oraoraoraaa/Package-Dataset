@@ -90,8 +90,8 @@ Contains the whole lists of packages in the corresponding ecosystem.
 - Source: http://rubygems.org/names (gem name), https://rubygems.org/api/v1/gems/{gem_name}.json (repo URL)
 - Description: Fetch gem names from RubyGems API and fetch information for gems.
 - Mine Date: 2025-12-1
-- Total: 188,204
-- Valid: 129,283
+- Total: 188,991
+- Valid: 129,934
 
 ## Common-Package
 
