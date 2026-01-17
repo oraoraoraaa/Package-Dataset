@@ -81,9 +81,9 @@ Contains the whole lists of packages in the corresponding ecosystem.
 
 - Source: https://pypi.org/simple/ (package name), https://pypi.org/pypi/{package_name}/json (repo URL)
 - Description: PyPI simple API provides a list of all packages. Using the names we can fetch information for PyPI packages.
-- Mine Date: 2025-11-30
-- Total: 705,908
-- Valid: 338,601
+- Mine Date: 2025-01-17
+- Total: 725,184
+- Valid: 347,104
 
 ### Ruby
 
