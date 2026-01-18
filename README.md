@@ -65,9 +65,9 @@ Contains the whole lists of packages in the corresponding ecosystem.
 
 - Source: https://replicate.npmjs.com/_all_docs (package name), https://registry.npmjs.org/{package_name} (repo URL)
 - Description: `npm` provides an all-docs endpoint that returns all package names. Use the names we can fetch information for `npm` packages using API.
-- Mine Date: 2025-11-30
-- Total: 3,706,504
-- Valid: 1,363,719
+- Mine Date: 2025-01-17
+- Total: 3,749,794
+- Valid: 1,381,643
 
 ### PHP
 
