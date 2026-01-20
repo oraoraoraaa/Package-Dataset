@@ -48,9 +48,9 @@ Contains the whole lists of packages in the corresponding ecosystem.
   2. Use the Go proxy API to get the latest version info.
   3. Fetch the .info file which contains metadata.
   4. The info file doesn't have repo URL, so fetch go.mod.
-- Mine Date: 2025-12-15
-- Total: 2,164,784
-- Valid: 518,795
+- Mine Date: 2025-01-18
+- Total: 2,236,178
+- Valid:
 
 ### Maven
 
